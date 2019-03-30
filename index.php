@@ -14,8 +14,8 @@
    <body>
      <div class="container">
        <nav class="navbar">
-         <a class="navbar-brand" href="#">Noah's Cloud</a>
-         <a class="navbar-item" href="#">About</a>
+         <a class="navbar-brand" href="#"><h1>Noah's Cloud</h1></a>
+         <a class="navbar-item" href="#"><h2>About</h2></a>
        </nav>
        </div>
      </div>
