@@ -14,9 +14,9 @@
    <body>
      <div class="container-fluid">
        <nav class="navbar">
-
+         <a class="navbar-brand" href="#">Noah's Cloud</a>
+         <a class="navbar-item" href="#">About</a>
        </nav>
-
        </div>
      </div>
    </body>
