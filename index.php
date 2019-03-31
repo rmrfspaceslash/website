@@ -49,6 +49,12 @@
 
   <!-- main body text cards -->
   <div class="container">
+
+    <!-- temp non-finished alert -->
+    <div class="alert alert-danger" role="alert">
+      <strong>Hey Listen!</strong> This website is not complete! It is getting updated daily!
+    </div>
+
     <h1 class="float-sm-right">Projects</h1><br>
     <hr class="my-4">
 
@@ -79,8 +85,12 @@
     </a>
   </div><br>
 
+  <!-- Begin About Me section -->
   <h1 class="float-sm-right">About Me</h1><br>
   <hr class="my-4">
+
+
+
 
 
 
