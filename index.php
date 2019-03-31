@@ -52,7 +52,7 @@
     <h1 class="float-sm-right">Projects</h1><br>
     <hr class="my-4">
     <div class="card-deck">
-      <div class="card">
+      <div class="card" href="#">
         <div class="card-body" href="#">
           <h4 class="card-title">Card title</h4>
           <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
