@@ -11,8 +11,8 @@
      <title>Noah's Cloud</title>
      <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
    </head>
-    <body class="bg-light">
-     <div class="container-fluid">
+    <body class="">
+     <div class="container">
 
        <!--navbar code -->
        <nav class="navbar navbar-expand-sm bg-light navbar-light justify-content-end">
