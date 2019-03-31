@@ -32,13 +32,34 @@
                <a class="nav-link" href="#">Projects</a>
              </li>
              <li class="nav-item">
-               <a class="nav-link" href="#">Login/Register</a>
+               <a class="nav-link" data-toggle="modal" data-target=".login-modal">Login/Register</a>
              </li>
            </ul>
         </div>
       </nav>
 
-      <!--Beginning carousel code -->
+
+      <!--Login/Register Modal -->
+
+
+      <div class="modal fade login-modal" tabindex="-1" role="dialog"
+           aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+          <div class="modal-content">
+            ...
+          </div>
+        </div>
+      </div>
+
+
+
+
+
+
+
+
+
+      <!--Beginning carousel code
       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
@@ -60,6 +81,8 @@
           <span class="sr-only">Next</span>
         </a>
       </div>
+      -->
+
 
     </div>
    </body>
