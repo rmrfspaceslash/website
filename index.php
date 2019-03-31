@@ -49,7 +49,7 @@
 
   <!-- main body text cards -->
   <div class="container">
-    <h1 class="float-sm-right">Projects</h1>
+    <h1 class="float-sm-right">Projects</h1><br>
     <hr class="my-4">
     <div class="card" href="#">
       <img class="card-img-top" src="/images/pathToYourImage.png" alt="Card image cap">
