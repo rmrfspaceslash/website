@@ -13,9 +13,9 @@
    </head>
    <body>
      <div class="container">
-       <nav class="navbar navbar-expand-lg navbar-expand-md navbar-light bg-light justify-content-end">
+       <nav class="navbar navbar-expand-lg navbar-expand-md navbar-light bg-light">
   <a class="navbar-brand" href="#">Navbar</a>
-    <ul class="navbar-nav mr-auto">
+    <ul class="navbar-nav text-right">
       <li class="nav-item">
         <a class="nav-link" href="#">About</a>
       </li>
