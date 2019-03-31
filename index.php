@@ -16,7 +16,7 @@
         <div class="container" align="center">
 
        <!--navbar code -->
-       <nav class="navbar navbar-expand-sm justify-content-end">
+       <nav class="navbar navbar-expand-sm justify-content-end mb-100">
          <a class="navbar-brand mr-auto ml-1 btn btn-link">Noah's Cloud</a>
          <button class="navbar-toggler bg-dark" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
            <span class="navbar-toggler-icon"></span>
@@ -39,7 +39,7 @@
         </div>
       </nav>
 
-      <h1 class="display-4 mt-100">Noah's Cloud</h1>
+      <h1 class="display-4 ">Noah's Cloud</h1>
       <p class="lead">This is my website for all of my projects and stuff!</p>
 
     </div>
