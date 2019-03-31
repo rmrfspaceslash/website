@@ -51,14 +51,24 @@
   <div class="container">
     <h1 class="float-sm-right">Projects</h1><br>
     <hr class="my-4">
-    <div class="card" href="#">
-      <img class="card-img-top" src="/images/pathToYourImage.png" alt="Card image cap">
-      <div class="card-body">
-        <h4 class="card-title">Noah's Cloud</h4>
-        <p class="card-text">
-          This is my website. I built the entire website from scratch
-          using bootstrap! I hope you like it.
-        </p>
+    <div class="card-deck">
+      <div class="card">
+        <div class="card-body">
+          <h4 class="card-title">Card title</h4>
+          <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-body">
+          <h4 class="card-title">Card title</h4>
+          <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-body">
+          <h4 class="card-title">Card title</h4>
+          <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+        </div>
       </div>
     </div>
   </div>
