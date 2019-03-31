@@ -13,9 +13,8 @@
    </head>
     <body>
      <div class="container">
-       <nav class="navbar navbar-expand-sm bg-dark navbar-dark justify-content-end">
-         <a class="navbar-brand" href="#">Home</a>
-         <button class="btn btn-success ml-auto mr-1">Always Show</button>
+       <nav class="navbar navbar-expand-sm bg-light navbar-light justify-content-end">
+         <a class="navbar-brand" href="#">Noah's Cloud</a>
          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
            <span class="navbar-toggler-icon"></span>
          </button>
