@@ -77,7 +77,10 @@
           <p class="card-text">This editor is an idea I have for a simple web-based IDE</p>
         </div>
     </a>
-  </div>
+  </div><br>
+
+  <h1 class="float-sm-right">About Me</h1><br>
+  <hr class="my-4">
 
 
 
