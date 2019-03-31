@@ -51,6 +51,8 @@
   <div class="container">
     <h1 class="float-sm-right">Projects</h1><br>
     <hr class="my-4">
+
+    <!-- Project card 1 -->
     <div class="card-deck">
       <a class="card" href="" style="color: inherit;" data-toggle="modal" data-target=".projmodal1">
           <div class="card-body">
@@ -58,12 +60,16 @@
             <p class="card-text">This is a placeholder for the text to come</p>
           </div>
       </a>
+
+      <!-- Project card 2 -->
       <a class="card" href="" style="color: inherit;" data-toggle="modal" data-target=".projmodal2">
           <div class="card-body">
             <h4 class="card-title">Card title</h4>
             <p class="card-text">This is a placeholder for the text to come</p>
           </div>
       </a>
+
+      <!-- Project card 3 -->
     <a class="card" href="" style="color: inherit;" data-toggle="modal" data-target=".projmodal3">
         <div class="card-body">
           <h4 class="card-title">Card title</h4>
