@@ -20,11 +20,17 @@
          </button>
          <div class="collapse navbar-collapse flex-grow-0" id="navbarSupportedContent">
            <ul class="navbar-nav text-right">
-             <li class="nav-item active">
+             <li class="nav-item">
                <a class="nav-link" href="#">About</a>
              </li>
-             <li class="nav-item active">
-               <a class="nav-link" href="#">Login</a>
+             <li class="nav-item">
+               <a class="nav-link" href="#">Contact</a>
+             </li>
+             <li class="nav-item">
+               <a class="nav-link" href="#">Projects</a>
+             </li>
+             <li class="nav-item">
+               <a class="nav-link" href="#">Login/Register</a>
              </li>
            </ul>
         </div>
