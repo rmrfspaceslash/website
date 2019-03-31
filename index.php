@@ -52,22 +52,22 @@
     <h1 class="float-sm-right">Projects</h1><br>
     <hr class="my-4">
     <div class="card-deck">
-      <a class="card" href="" style="color: inherit;">
+      <a class="card" href="" style="color: inherit;" data-toggle="modal" data-target=".projmodal1">
           <div class="card-body">
             <h4 class="card-title">Card title</h4>
-            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+            <p class="card-text">This is a placeholder for the text to come</p>
           </div>
       </a>
-      <a class="card" href="" style="color: inherit;">
+      <a class="card" href="" style="color: inherit;" data-toggle="modal" data-target=".projmodal2">
           <div class="card-body">
             <h4 class="card-title">Card title</h4>
-            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+            <p class="card-text">This is a placeholder for the text to come</p>
           </div>
       </a>
-    <a class="card" href="" style="color: inherit;">
+    <a class="card" href="" style="color: inherit;" data-toggle="modal" data-target=".projmodal3">
         <div class="card-body">
           <h4 class="card-title">Card title</h4>
-          <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+          <p class="card-text">This is a placeholder for the text to come</p>
         </div>
     </a>
   </div>
@@ -107,6 +107,16 @@
               </p>
             </div>
 
+          </div>
+        </div>
+      </div>
+
+      <!--Project card modal 1 -->
+      <div class="modal fade projmodal1" tabindex="-1" role="dialog"
+           aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+          <div class="modal-content">
+            ...
           </div>
         </div>
       </div>
