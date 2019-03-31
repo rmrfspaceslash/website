@@ -91,7 +91,7 @@
 
     <!--master header image -->
       <div class="jumbotron" style="background-image: url(https://images.unsplash.com/photo-1460411794035-42aac080490a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80); background-size: cover;">
-        <div class="container for-about">
+        <div class="container-fluid" align="center">
           <h1>Noah's Cloud</h1>
           <h2>For all my projects</h2>
         </div>
