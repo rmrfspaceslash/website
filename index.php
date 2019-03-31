@@ -11,23 +11,25 @@
      <title>Noah's Cloud</title>
      <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
    </head>
-   <body>
+    <body>
      <div class="container">
-       <nav class="navbar navbar-expand-lg navbar-expand-md navbar-light bg-light">
-  <a class="navbar-brand" href="#">Navbar</a>
-    <ul class="navbar-nav text-right">
-      <li class="nav-item">
-        <a class="nav-link" href="#">About</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Contact</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Login</a>
-      </li>
-    </ul>
-</nav>
-       </div>
-     </div>
+       <nav class="navbar navbar-expand-sm bg-dark navbar-dark justify-content-end">
+         <a class="navbar-brand" href="#">Home</a>
+         <button class="btn btn-success ml-auto mr-1">Always Show</button>
+         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
+           <span class="navbar-toggler-icon"></span>
+         </button>
+         <div class="collapse navbar-collapse flex-grow-0" id="navbarSupportedContent">
+           <ul class="navbar-nav text-right">
+             <li class="nav-item active">
+               <a class="nav-link" href="#">Right Link 1</a>
+             </li>
+             <li class="nav-item active">
+               <a class="nav-link" href="#">Right Link 2</a>
+             </li>
+           </ul>
+        </div>
+      </nav>
+    </div>
    </body>
  </html>
