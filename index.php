@@ -10,7 +10,6 @@
      <meta charset="utf-8">
      <title>Noah's Cloud</title>
      <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
-     <link rel="stylesheet" href="bootstrap/css/custom.css">
    </head>
     <body class="">
      <div class="container">
@@ -91,11 +90,10 @@
     -->
 
     <!--master header image -->
-    <div class="hero-image">
-      <div class="hero-text">
-        <h1>Noah's Cloud</h1>
-        <p>For all my projects</p>
-      </div>
+    <div class="jumbotron" style="background-image: img/headimg.jpg; background-size: 100%;">
+       <div class="container for-about">
+       <h1>About</h1>
+       </div>
     </div>
 
     </div>
