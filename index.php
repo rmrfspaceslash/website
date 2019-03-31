@@ -48,7 +48,11 @@
            aria-labelledby="myLargeModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg">
           <div class="modal-content">
-            ...
+            <form class="" action="" method="post">
+              <input class="form-control" type="text" name="logusername" placeholder="Username">
+              <input class="form-control" type="hidden" name="logpassword" placeholder="Password">
+              <input class="form-control" type="submit" name="logsubmit" placeholder="Log In">
+            </form>
           </div>
         </div>
       </div>
