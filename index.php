@@ -56,24 +56,25 @@
     <div class="card-deck">
       <a class="card" href="" style="color: inherit;" data-toggle="modal" data-target=".projmodal1">
           <div class="card-body">
-            <h4 class="card-title">Card title</h4>
-            <p class="card-text">This is a placeholder for the text to come</p>
+            <h4 class="card-title">Noah's Cloud</h4>
+            <p class="card-text">This is my website that your currently viewing. Click to find
+            out why I created this site</p>
           </div>
       </a>
 
       <!-- Project card 2 -->
       <a class="card" href="" style="color: inherit;" data-toggle="modal" data-target=".projmodal2">
           <div class="card-body">
-            <h4 class="card-title">Card title</h4>
-            <p class="card-text">This is a placeholder for the text to come</p>
+            <h4 class="card-title">Sunday Night Drive</h4>
+            <p class="card-text">This is a podcast focusing on updates in the tech world</p>
           </div>
       </a>
 
       <!-- Project card 3 -->
     <a class="card" href="" style="color: inherit;" data-toggle="modal" data-target=".projmodal3">
         <div class="card-body">
-          <h4 class="card-title">Card title</h4>
-          <p class="card-text">This is a placeholder for the text to come</p>
+          <h4 class="card-title">Web-based Code Editor</h4>
+          <p class="card-text">This editor is an idea I have for a simple web-based IDE</p>
         </div>
     </a>
   </div>
