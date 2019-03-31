@@ -13,10 +13,10 @@
    </head>
    <body>
      <div class="container">
-       <nav class="navbar navbar-expand-lg navbar-expand-md navbar-light bg-light">
+       <nav class="navbar navbar-expand-lg navbar-expand-md navbar-light bg-light justify-content-end">
   <a class="navbar-brand" href="#">Navbar</a>
     <ul class="navbar-nav mr-auto">
-      <li class="nav-item ml-auto mr-1">
+      <li class="nav-item">
         <a class="nav-link" href="#">About</a>
       </li>
       <li class="nav-item">
