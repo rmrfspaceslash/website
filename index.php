@@ -47,6 +47,21 @@
     </div>
   </div>
 
+  <!-- main body text cards -->
+  <div class="container">
+    <h1 class="float-sm-right">Projects</h1>
+    <hr class="my-4">
+    <div class="card" href="#">
+      <img class="card-img-top" src="/images/pathToYourImage.png" alt="Card image cap">
+      <div class="card-body">
+        <h4 class="card-title">Noah's Cloud</h4>
+        <p class="card-text">
+          This is my website. I built the entire website from scratch
+          using bootstrap! I hope you like it.
+        </p>
+      </div>
+    </div>
+  </div>
 
 
 
