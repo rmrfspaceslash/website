@@ -40,7 +40,7 @@
 
 
       <!--Login/Register Modal -->
-      <div class="modal fade login-modal-lg" tabindex="-1" role="dialog"
+      <div class="modal fade login-modal-lg bg-secondary" tabindex="-1" role="dialog"
            aria-labelledby="myLargeModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg">
           <div class="modal-content" align="center">
