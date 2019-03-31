@@ -39,7 +39,7 @@
         </div>
       </nav>
 
-      <h1 class="display-4">Noah's Cloud</h1>
+      <h1 class="display-4 mt-100">Noah's Cloud</h1>
       <p class="lead">This is my website for all of my projects and stuff!</p>
 
     </div>
