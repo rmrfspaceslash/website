@@ -10,6 +10,7 @@
      <meta charset="utf-8">
      <title>Noah's Cloud</title>
      <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+     <link rel="stylesheet" href="bootstrap/css/custom.css">
    </head>
     <body class="">
      <div class="container">
@@ -90,17 +91,12 @@
     -->
 
     <!--master header image -->
-    <header class="masthead">
-      <div class="container h-100 bg-dark">
-        <img class="d-block w-100" src="img/headimg.jpg" alt="Header Image">
-        <div class="row h-100 align-items-center">
-          <div class="col-12 text-center">
-            <h1 class="font-weight-light">Vertically Centered Masthead Content</h1>
-            <p class="lead">A great starter layout for a landing page</p>
-          </div>
-        </div>
+    <div class="hero-image">
+      <div class="hero-text">
+        <h1>Noah's Cloud</h1>
+        <p>For all my projects</p>
       </div>
-    </header>
+    </div>
 
     </div>
    </body>
