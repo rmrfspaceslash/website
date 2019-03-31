@@ -78,12 +78,6 @@
 
 
 
-
-
-
-
-
-
       <!--Login/Register Modal -->
       <div class="modal fade login-modal-lg bg-secondary" tabindex="-1" role="dialog"
            aria-labelledby="myLargeModalLabel" aria-hidden="true">
@@ -122,7 +116,7 @@
       </div>
 
       <!--Project card modal 2 -->
-      <div class="modal fade projmodal1" tabindex="-1" role="dialog"
+      <div class="modal fade projmodal2" tabindex="-1" role="dialog"
            aria-labelledby="myLargeModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg">
           <div class="modal-content">
@@ -132,7 +126,7 @@
       </div>
 
       <!--Project card modal 3 -->
-      <div class="modal fade projmodal1" tabindex="-1" role="dialog"
+      <div class="modal fade projmodal3" tabindex="-1" role="dialog"
            aria-labelledby="myLargeModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg">
           <div class="modal-content">
