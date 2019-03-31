@@ -52,13 +52,11 @@
     <h1 class="float-sm-right">Projects</h1><br>
     <hr class="my-4">
     <div class="card-deck">
-      <a href="" style="color: inherit;">
-        <div class="card">
+      <a class="card" href="" style="color: inherit;">
           <div class="card-body">
             <h4 class="card-title">Card title</h4>
             <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
           </div>
-        </div>
       </a>
       <a class="card" href="" style="color: inherit;">
           <div class="card-body">
@@ -66,14 +64,13 @@
             <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
           </div>
       </a>
-    <a href="" style="color: inherit;">
-      <div class="card">
+    <a class="card" href="" style="color: inherit;">
         <div class="card-body">
           <h4 class="card-title">Card title</h4>
           <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
         </div>
-      </div>
     </a>
+  </div>
 
 
 
