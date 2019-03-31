@@ -11,7 +11,8 @@
      <title>Noah's Cloud</title>
      <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
    </head>
-    <body class="">
+    <body>
+
       <div class="jumbotron jumbotron-fluid">
         <div class="container" align="center">
 
@@ -38,13 +39,18 @@
            </ul>
         </div>
       </nav><hr class="my-4">
-      <h1 class="display-4 ">Noah's Cloud</h1>
+
+      <!--Hero text -->
+      <h1 class="display-4 pt-4">Noah's Cloud</h1>
       <p class="lead">This is my website for all of my projects and stuff!</p>
+
     </div>
   </div>
-  <div class="page-scroll">
 
-  </div>
+
+
+
+  <div class="page-scroll"></div>
 
 
 
@@ -80,11 +86,6 @@
           </div>
         </div>
       </div>
-
-
-
-
-
 
 
    </body>
