@@ -11,7 +11,7 @@
      <title>Noah's Cloud</title>
      <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
    </head>
-    <body>
+    <body class="bg-secondary">
      <div class="container">
 
        <!--navbar code -->
