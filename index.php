@@ -22,10 +22,10 @@
          <div class="collapse navbar-collapse flex-grow-0" id="navbarSupportedContent">
            <ul class="navbar-nav text-right">
              <li class="nav-item active">
-               <a class="nav-link" href="#">Right Link 1</a>
+               <a class="nav-link" href="#">About</a>
              </li>
              <li class="nav-item active">
-               <a class="nav-link" href="#">Right Link 2</a>
+               <a class="nav-link" href="#">Login</a>
              </li>
            </ul>
         </div>
