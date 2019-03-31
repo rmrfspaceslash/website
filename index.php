@@ -12,7 +12,7 @@
      <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
    </head>
     <body class="">
-      <div class="jumbotron">
+      <div class="jumbotron jumbotron-fluid">
         <div class="container" align="center">
 
        <!--navbar code -->
