@@ -38,7 +38,6 @@
         </div>
       </nav>
 
-
       <!--Login/Register Modal -->
       <div class="modal fade login-modal-lg bg-secondary" tabindex="-1" role="dialog"
            aria-labelledby="myLargeModalLabel" aria-hidden="true">
@@ -62,21 +61,11 @@
               </p>
             </div>
 
-
-
           </div>
         </div>
       </div>
 
-
-
-
-
-
-
-
-
-      <!--Beginning carousel code -->
+      <!--Beginning carousel code
       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
@@ -98,7 +87,19 @@
           <span class="sr-only">Next</span>
         </a>
       </div>
+    -->
 
+    <!--master header image -->
+    <header class="masthead">
+      <div class="container h-100">
+        <div class="row h-100 align-items-center">
+          <div class="col-12 text-center">
+            <h1 class="font-weight-light">Vertically Centered Masthead Content</h1>
+            <p class="lead">A great starter layout for a landing page</p>
+          </div>
+        </div>
+      </div>
+    </header>
 
     </div>
    </body>
