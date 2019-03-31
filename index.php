@@ -12,7 +12,7 @@
      <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
    </head>
     <body class="">
-      <div class="jumbotron" style="background-image: url(https://images.unsplash.com/photo-1460411794035-42aac080490a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80); background-size: cover;">
+      <div class="jumbotron" style="background-image: url(https://images.unsplash.com/photo-1460411794035-42aac080490a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80); background-size: cover;  background-repeat: no-repeat;">
         <div class="container" align="center">
 
        <!--navbar code -->
@@ -37,7 +37,7 @@
              </li>
            </ul>
         </div>
-      </nav>
+      </nav><hr class="my-4">
 
       <h1 class="display-4 ">Noah's Cloud</h1>
       <p class="lead">This is my website for all of my projects and stuff!</p>
