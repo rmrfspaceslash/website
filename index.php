@@ -42,10 +42,10 @@
       <div id="carousel" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner" role="listbox">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="#" data-src="https://unsplash.com/photos/aIY_8IjPj3I" alt="First Slide">
+            <img class="d-block w-100" src="#" data-src="holder.js/900x400?theme=social" alt="First Slide">
           </div>
           <div class="carousel-item">
-            <img class="d-block w-100" src="#" data-src="https://unsplash.com/photos/aIY_8IjPj3I" alt="Second Slide">
+            <img class="d-block w-100" src="#" data-src="holder.js/900x400?theme=social" alt="Second Slide">
           </div>
         </div>
         <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
