@@ -60,13 +60,11 @@
           </div>
         </div>
       </a>
-      <a href="" style="color: inherit;">
-        <div class="card">
+      <a class="card" href="" style="color: inherit;">
           <div class="card-body">
             <h4 class="card-title">Card title</h4>
             <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
           </div>
-        </div>
       </a>
     <a href="" style="color: inherit;">
       <div class="card">
