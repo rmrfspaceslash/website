@@ -10,7 +10,6 @@
      <meta charset="utf-8">
      <title>Noah's Cloud</title>
      <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
-     <script src="bootstrap/js/bootstrap.js"></script>
    </head>
     <body>
      <div class="container">
@@ -64,4 +63,5 @@
 
     </div>
    </body>
+   <script src="bootstrap/js/bootstrap.js"></script>
  </html>
