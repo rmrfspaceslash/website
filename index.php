@@ -32,7 +32,7 @@
                <a class="nav-link" href="#">Projects</a>
              </li>
              <li class="nav-item">
-               <a class="nav-link" data-toggle="modal" data-target=".login-modal">Login/Register</a>
+               <a class="nav-link btn btn-link" data-toggle="modal" data-target=".login-modal">Login/Register</a>
              </li>
            </ul>
         </div>
