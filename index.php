@@ -40,18 +40,16 @@
 
 
       <!--Login/Register Modal -->
-      <button class="btn btn-primary" data-toggle="modal" data-target=".login-modal-lg">
-        Large modal
-      </button>
-
       <div class="modal fade login-modal-lg" tabindex="-1" role="dialog"
            aria-labelledby="myLargeModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg">
           <div class="modal-content">
+
             <form class="" action="" method="post">
-              <input class="form-control" type="text" name="logusername" placeholder="Username">
-              <input class="form-control" type="password" name="logpassword" placeholder="Password">
-              <input class="form-control" type="submit" name="logsubmit" placeholder="Log In">
+              <input class="form-control w-75 mr-1 ml-1" type="text" name="logusername" placeholder="Username">
+              <input class="form-control w-75 mr-1 ml-1" type="password" name="logpassword" placeholder="Password">
+              <input class="form-control w-75 mr-1 ml-1" type="submit" name="logsubmit" placeholder="Log In">
+
             </form>
           </div>
         </div>
