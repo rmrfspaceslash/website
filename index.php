@@ -32,7 +32,7 @@
                <a class="nav-link" href="#">Projects</a>
              </li>
              <li class="nav-item">
-               <a class="nav-link btn btn-link" data-toggle="modal" data-target=".login-modal">Login/Register</a>
+               <a class="nav-link btn btn-link" data-toggle="modal" data-target=".login-modal-lg">Login/Register</a>
              </li>
            </ul>
         </div>
@@ -40,11 +40,11 @@
 
 
       <!--Login/Register Modal -->
-      <button class="btn btn-primary" data-toggle="modal" data-target=".bd-example-modal-lg">
+      <button class="btn btn-primary" data-toggle="modal" data-target=".login-modal-lg">
         Large modal
       </button>
 
-      <div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog"
+      <div class="modal fade login-modal-lg" tabindex="-1" role="dialog"
            aria-labelledby="myLargeModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg">
           <div class="modal-content">
