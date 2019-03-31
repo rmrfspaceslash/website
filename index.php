@@ -45,10 +45,10 @@
         <div class="modal-dialog modal-lg">
           <div class="modal-content">
 
-            <form class="" action="" method="post">
-              <input class="form-control w-100 mr-5 ml-5" type="text" name="logusername" placeholder="Username">
-              <input class="form-control w-100 mr-5 ml-5" type="password" name="logpassword" placeholder="Password">
-              <input class="form-control w-100 mr-5 ml-5" type="submit" name="logsubmit" placeholder="Log In">
+            <form class="form-inline" action="" method="post" align="center">
+              <input class="form-control w-75" type="text" name="logusername" placeholder="Username">
+              <input class="form-control w-75" type="password" name="logpassword" placeholder="Password">
+              <input class="form-control w-75" type="submit" name="logsubmit" placeholder="Log In">
 
             </form>
           </div>
