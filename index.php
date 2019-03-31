@@ -44,7 +44,7 @@
            aria-labelledby="myLargeModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg">
           <div class="modal-content" align="center">
-            <div class="mt-5 mb-1">
+            <div class="mt-0 mb-1">
               <h1>Login</h1>
             </div>
 
