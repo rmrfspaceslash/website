@@ -52,7 +52,7 @@
 
     <!-- temp non-finished alert -->
     <div class="alert alert-danger" role="alert">
-      <strong>Hey Listen!</strong> This website is not complete! It is getting updated daily!
+      <strong>Hey Listen!</strong> This website is not complete! It is getting updated daily! Start Date: 3/31/19 | Last Modified: 3/31/19
     </div>
 
     <h1 class="float-sm-right">Projects</h1><br>
