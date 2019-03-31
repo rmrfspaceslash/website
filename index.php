@@ -24,13 +24,13 @@
          <div class="collapse navbar-collapse flex-grow-0" id="navbarSupportedContent">
            <ul class="navbar-nav text-right">
              <li class="nav-item">
-               <a class="nav-link" href="#">About</a>
+               <a class="nav-link btn btn-link" href="#">About</a>
              </li>
              <li class="nav-item">
-               <a class="nav-link" href="#">Contact</a>
+               <a class="nav-link btn btn-link" href="#">Contact</a>
              </li>
              <li class="nav-item">
-               <a class="nav-link" href="#">Projects</a>
+               <a class="nav-link btn btn-link" href="#">Projects</a>
              </li>
              <li class="nav-item">
                <a class="nav-link btn btn-link" data-toggle="modal" data-target=".login-modal-lg">Login/Register</a>
