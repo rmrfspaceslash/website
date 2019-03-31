@@ -92,7 +92,7 @@
     <!--master header image -->
     <div class="jumbotron" style="background-image: url(https://images.unsplash.com/photo-1460411794035-42aac080490a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80); background-size: 100%;">
        <div class="container for-about">
-       <h1>About</h1>
+       <h1>About</h1><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
        </div>
     </div>
 
