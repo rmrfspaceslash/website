@@ -58,7 +58,7 @@
 
             <div class="mt-1 mb-1">
               <p>Don't already have an account? Click</p>
-              <button class="btn btn-link">Here!</button>
+              <a href="#">here!</a>
             </div>
 
           </div>
