@@ -43,7 +43,7 @@
       <div class="modal fade login-modal-lg" tabindex="-1" role="dialog"
            aria-labelledby="myLargeModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg">
-          <div class="modal-content">
+          <div class="modal-content" align="center">
 
             <form class="form-inline" action="" method="post" align="center">
               <input align="center" class="form-control w-75" type="text" name="logusername" placeholder="Username">
