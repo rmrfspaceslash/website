@@ -56,11 +56,11 @@
               </form>
             </div>
 
-            <div class="mt-1 mb-1">
+
               <p>Don't already have an account? Click
               <a href="#">here!</a>
               </p>
-            </div>
+            
 
           </div>
         </div>
