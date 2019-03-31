@@ -44,13 +44,14 @@
            aria-labelledby="myLargeModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg">
           <div class="modal-content" align="center">
+            <div class="w-75" align="center">
+              <form class="form-inline" action="" method="post" align="center">
+                <input class="form-control w-100" type="text" name="logusername" placeholder="Username">
+                <input class="form-control w-100" type="password" name="logpassword" placeholder="Password">
+                <input class="form-control w-100" type="submit" name="logsubmit" placeholder="Log In">
+              </form>
+            </div>
 
-            <form class="form-inline" action="" method="post" align="center">
-              <input align="center" class="form-control w-75" type="text" name="logusername" placeholder="Username">
-              <input class="form-control w-75" type="password" name="logpassword" placeholder="Password">
-              <input class="form-control w-75" type="submit" name="logsubmit" placeholder="Log In">
-
-            </form>
           </div>
         </div>
       </div>
