@@ -40,7 +40,7 @@
 
       <!--Beginning carousel code -->
       <div id="carouselmain" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner" role="listbox">
+        <div class="carousel-inner">
           <div class="carousel-item active">
             <img class="d-block w-100" src="img/holder1.jpg" data-src="img/holder1.jpg" alt="First slide">
           </div>
