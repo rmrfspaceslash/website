@@ -12,7 +12,7 @@
      <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
    </head>
     <body class="bg-light">
-     <div class="container">
+     <div class="container-fluid">
 
        <!--navbar code -->
        <nav class="navbar navbar-expand-sm bg-light navbar-light justify-content-end">
