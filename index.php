@@ -12,7 +12,8 @@
      <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
    </head>
     <body class="">
-     <div class="container">
+      <div class="jumbotron" style="background-image: url(https://images.unsplash.com/photo-1460411794035-42aac080490a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80); background-size: cover;">
+        <div class="container">
 
        <!--navbar code -->
        <nav class="navbar navbar-expand-sm bg-light navbar-light justify-content-end">
@@ -90,13 +91,7 @@
     -->
 
     <!--master header image -->
-      <div class="jumbotron" style="background-image: url(https://images.unsplash.com/photo-1460411794035-42aac080490a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80); background-size: cover;">
-        <div class="container-fluid" align="center">
-          <h1>Noah's Cloud</h1>
-          <h2>For all my projects</h2>
-        </div>
-      </div>
-
+    </div>
     </div>
    </body>
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
