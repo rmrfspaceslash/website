@@ -50,10 +50,15 @@
 
             <div class="w-75" align="center">
               <form class="form-inline" action="" method="post" align="center">
-                <input class="form-control w-100" type="text" name="logusername" placeholder="Username">
-                <input class="form-control w-100" type="password" name="logpassword" placeholder="Password">
-                <input class="form-control w-100" type="submit" name="logsubmit" placeholder="Log In">
+                <input class="form-control w-75" type="text" name="logusername" placeholder="Username">
+                <input class="form-control w-75" type="password" name="logpassword" placeholder="Password">
+                <input class="form-control w-75" type="submit" name="logsubmit" placeholder="Log In">
               </form>
+            </div>
+
+            <div class="mt-1 mb-1">
+              <p>Don't already have an account? Click</p>
+              <button class="btn btn-link">Here!</button>
             </div>
 
           </div>
