@@ -46,7 +46,7 @@
           <div class="modal-content">
 
             <form class="form-inline" action="" method="post" align="center">
-              <input class="form-control w-75" type="text" name="logusername" placeholder="Username">
+              <input align="center" class="form-control w-75" type="text" name="logusername" placeholder="Username">
               <input class="form-control w-75" type="password" name="logpassword" placeholder="Password">
               <input class="form-control w-75" type="submit" name="logsubmit" placeholder="Log In">
 
