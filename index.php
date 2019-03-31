@@ -121,6 +121,26 @@
         </div>
       </div>
 
+      <!--Project card modal 2 -->
+      <div class="modal fade projmodal1" tabindex="-1" role="dialog"
+           aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+          <div class="modal-content">
+            ...
+          </div>
+        </div>
+      </div>
+
+      <!--Project card modal 3 -->
+      <div class="modal fade projmodal1" tabindex="-1" role="dialog"
+           aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+          <div class="modal-content">
+            ...
+          </div>
+        </div>
+      </div>
+
 
    </body>
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
