@@ -38,17 +38,13 @@
            </ul>
         </div>
       </nav><hr class="my-4">
-      <br><br><br><br><br>
       <h1 class="display-4 ">Noah's Cloud</h1>
       <p class="lead">This is my website for all of my projects and stuff!</p>
-      <br><br><br><br><br><br><br><br><br><br><br>
     </div>
   </div>
-  <div class="container">
-    <h1>Hello I am Noah Woods</h1>
-    <br><br><br><br><br><br><br><br><br><br><br>
-  </div>
+  <div class="page-scroll">
 
+  </div>
 
 
 
