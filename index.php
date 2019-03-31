@@ -44,6 +44,10 @@
            aria-labelledby="myLargeModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg">
           <div class="modal-content" align="center">
+            <div class="mt-5 mb-1">
+              <h1>Login</h1>
+            </div>
+
             <div class="w-75" align="center">
               <form class="form-inline" action="" method="post" align="center">
                 <input class="form-control w-100" type="text" name="logusername" placeholder="Username">
