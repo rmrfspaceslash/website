@@ -13,12 +13,12 @@
    </head>
     <body class="">
       <div class="jumbotron" style="background-image: url(https://images.unsplash.com/photo-1460411794035-42aac080490a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80); background-size: cover;">
-        <div class="container">
+        <div class="container" align="center">
 
        <!--navbar code -->
        <nav class="navbar navbar-expand-sm justify-content-end">
          <a class="navbar-brand mr-auto ml-1 btn btn-link">Noah's Cloud</a>
-         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
+         <button class="navbar-toggler bg-dark" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
            <span class="navbar-toggler-icon"></span>
          </button>
          <div class="collapse navbar-collapse flex-grow-0" id="navbarSupportedContent">
@@ -38,6 +38,21 @@
            </ul>
         </div>
       </nav>
+
+      <h1 class="display-4">Noah's Cloud</h1>
+      <p class="lead">This is my website for all of my projects and stuff!</p>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
 
       <!--Login/Register Modal -->
       <div class="modal fade login-modal-lg bg-secondary" tabindex="-1" role="dialog"
@@ -66,33 +81,12 @@
         </div>
       </div>
 
-      <!--Beginning carousel code
-      <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <img class="d-block w-100" src="img/holder1.jpg" alt="First slide">
-          </div>
-          <div class="carousel-item">
-            <img class="d-block w-100" src="img/holder2.jpg" alt="Second slide">
-          </div>
-          <div class="carousel-item">
-            <img class="d-block w-100" src="img/holder1.jpg" alt="Third slide">
-          </div>
-        </div>
-        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a>
-      </div>
-    -->
 
-    <!--master header image -->
-    </div>
-    </div>
+
+
+
+
+
    </body>
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
    <script src="bootstrap/js/bootstrap.min.js"></script>
