@@ -16,7 +16,7 @@
         <div class="container">
 
        <!--navbar code -->
-       <nav class="navbar navbar-expand-sm bg-light navbar-light justify-content-end">
+       <nav class="navbar navbar-expand-sm justify-content-end">
          <a class="navbar-brand mr-auto ml-1" href="#">Noah's Cloud</a>
          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
            <span class="navbar-toggler-icon"></span>
