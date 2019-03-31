@@ -41,7 +41,7 @@
       </nav><hr class="my-4">
 
       <!--Hero text -->
-      <h1 class="display-5">Noah's Cloud</h1>
+      <h1 class="display-2">Noah's Cloud</h1>
       <p class="lead">This is my website for all of my projects and stuff!</p>
 
     </div>
