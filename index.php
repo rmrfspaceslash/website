@@ -61,6 +61,7 @@
       <h1 class="float-sm-right">About Me</h1><br>
     </div>
     <hr class="my-4">
+    <div class="container">
 
     <!--Row number 1 -->
     <div class="row">
