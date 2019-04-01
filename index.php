@@ -88,7 +88,7 @@
 
         <div class="card-deck">
           <!-- Project card 1 -->
-          <a class="card" href="" style="color: inherit;" data-toggle="modal" data-target=".projmodal1">
+          <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal1">
             <div class="card-body shadow">
               <h4 class="card-title">Noah's Cloud</h4>
               <p class="card-text">This is my website that your currently viewing. Click to find
