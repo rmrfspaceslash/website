@@ -86,7 +86,7 @@
     </div><br>
 
     <!-- Row number 2 -->
-    <div class="row">
+    <div class="row"  data-aos="fade-in">
       <div class="col-lg-6 col-md-6 col-sm-12">
         <img class="d-block w-100" src="img/holder1.jpg" alt="Holder image">
       </div>
@@ -117,7 +117,7 @@
       <div class="container">
 
         <!-- Card deck 1 -->
-        <div class="card-deck" data-aos="fade-in">
+        <div class="card-deck">
           <!-- Project card 1 -->
           <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal1">
             <div class="card-body shadow">
