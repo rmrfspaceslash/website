@@ -99,12 +99,13 @@
 
 
       <!--Login/Register Modal -->
-      <div class="modal fade login-modal-lg bg-secondary" tabindex="-1" role="dialog"
+      <div class="modal fade login-modal-md bg-secondary" tabindex="-1" role="dialog"
            aria-labelledby="myLargeModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg">
           <div class="modal-content" align="center">
             <div class="mt-0 mb-1">
-              <h1>Login</h1>
+              <h1>Login</h1><br>
+              <h2>and access all I have to offer</h2>
             </div>
 
             <div class="w-50" align="center">
@@ -130,7 +131,7 @@
            aria-labelledby="myLargeModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg">
           <div class="modal-content">
-            ...
+            Text will go here
           </div>
         </div>
       </div>
@@ -140,7 +141,7 @@
            aria-labelledby="myLargeModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg">
           <div class="modal-content">
-            ...
+            Text will go here
           </div>
         </div>
       </div>
@@ -150,7 +151,7 @@
            aria-labelledby="myLargeModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg">
           <div class="modal-content">
-            ...
+            Text will go here
           </div>
         </div>
       </div>
