@@ -48,6 +48,7 @@
   </div>
 
   <!-- main body text cards -->
+<div class="jumbotron-about jumbotron-fluid">
   <div class="container">
 
     <!-- temp non-finished alert -->
@@ -62,7 +63,7 @@
     </div>
     <hr class="my-4">
     <!--Begin About me section -->
-    <div class="jumbotron-about jumbotron-fluid">
+
       <div class="container">
 
       <!--Row number 1 // High School-->
@@ -92,13 +93,13 @@
       </div><br>
 
       </div>
-    </div>
+
     <!-- Begin Project section -->
     <div class="container">
       <h1 class="float-sm-right">My Projects</h1><br>
     </div>
     <hr class="my-4">
-
+</div>
     <div class="jumbotron-projects jumbotron-fluid">
       <div class="container">
 
