@@ -11,7 +11,7 @@
      <title>Noah's Cloud</title>
      <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
    </head>
-    <body style="background-color: #F0F0F0;">
+    <body style="background-color: #ededed;">
 
       <div class="jumbotron-header jumbotron-fluid">
         <div class="container" align="center">
