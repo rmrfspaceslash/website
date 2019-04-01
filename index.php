@@ -179,6 +179,9 @@
       <hr class="my-4">
       <div class="container-fluid bg-secondary">
         <div class="container">
+          <h1 class="float-sm-right">Contact Me</h1><br>
+        </div>
+        <div class="container">
 
           <form><br>
 
@@ -192,7 +195,7 @@
             <div class="form-group row">
               <label for="inputMessage" class="col-sm-2 col-form-label ">Message</label>
               <div class="col-sm-10">
-                <textarea class="form-control" id="contactMessage" placeholder="Type your message here..." rows="3">
+                <textarea class="form-control" id="contactMessage" placeholder="Type your message here..." rows="3"></textarea>
               </div>
             </div>
 
@@ -207,9 +210,7 @@
         </div>
       </div>
     </div>
-    <div class="container">
-      <h1 class="float-sm-right">Contact Me</h1><br>
-    </div>
+
 
 
 
