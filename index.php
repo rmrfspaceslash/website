@@ -58,17 +58,18 @@
     <!-- Begin About Me section -->
     <h1 class="float-sm-right">About Me</h1><br>
     <hr class="my-4">
-    <div class="col-lg-6 col-md-6 col-sm-12">
-      <p>Filler text to see how this section will be formatted and how the design looks overall
-      This is nothing but filler text to see how this section will be formatted and how the design will looks
-      Please note this is filler text.</p>
+    <div class="row">
+      <div class="col-lg-6 col-md-6 col-sm-12">
+        <p>Filler text to see how this section will be formatted and how the design looks overall
+        This is nothing but filler text to see how this section will be formatted and how the design will looks
+        Please note this is filler text.</p>
+      </div>
+      <div class="col-lg-6 col-md-6 col-sm-12">
+        <p>Filler text to see how this section will be formatted and how the design looks overall
+        This is nothing but filler text to see how this section will be formatted and how the design will looks
+        Please note this is filler text.</p>
+      </div>
     </div>
-    <div class="col-lg-6 col-md-6 col-sm-12">
-      <p>Filler text to see how this section will be formatted and how the design looks overall
-      This is nothing but filler text to see how this section will be formatted and how the design will looks
-      Please note this is filler text.</p>
-    </div>
-
 
     <!-- Begin Project section -->
     <h1 class="float-sm-right">Projects</h1><br>
