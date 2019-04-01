@@ -162,7 +162,7 @@
         </div>
       </div>
 
-    </div>
+    </div><br>
 
     <!-- Begin contact me section -->
     <div class="container">
