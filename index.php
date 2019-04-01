@@ -13,7 +13,7 @@
    </head>
     <body>
 
-      <div class="jumbotron jumbotron-fluid shadow-sm">
+      <div class="jumbotron jumbotron-fluid border border-secondary border-bottom-5">
         <div class="container" align="center">
 
        <!--navbar code -->
