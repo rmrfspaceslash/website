@@ -10,6 +10,7 @@
      <meta charset="utf-8">
      <title>Noah's Cloud</title>
      <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+     <link href="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.css" rel="stylesheet">
    </head>
     <body style="background-color: #ededed;">
 
@@ -116,7 +117,7 @@
       <div class="container">
 
         <!-- Card deck 1 -->
-        <div class="card-deck">
+        <div class="card-deck" data-aos="fade-in">
           <!-- Project card 1 -->
           <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal1">
             <div class="card-body shadow">
@@ -239,4 +240,5 @@
    </body>
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
    <script src="bootstrap/js/bootstrap.min.js"></script>
+   <script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
  </html>
