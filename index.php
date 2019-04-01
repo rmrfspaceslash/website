@@ -65,9 +65,7 @@
         Please note this is filler text.</p>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12">
-        <p>Filler text to see how this section will be formatted and how the design looks overall
-        This is nothing but filler text to see how this section will be formatted and how the design will looks
-        Please note this is filler text.</p>
+        <img class="d-block w-100" src="img/holder1.jpg" alt="Holder image">
       </div>
     </div>
 
