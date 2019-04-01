@@ -104,11 +104,10 @@
         <div class="modal-dialog modal-sm">
           <div class="modal-content" align="center">
             <div class="mt-0 mb-1">
-              <h1>Login</h1><br>
-              <h2>and access all I have to offer</h2>
+              <h1>Login</h1>
             </div>
 
-            <div class="w-50" align="center">
+            <div class="w-100" align="center">
               <form class="form-inline" action="" method="post" align="center">
                 <input class="form-control w-100" type="text" name="logusername" placeholder="Username">
                 <input class="form-control w-100" type="password" name="logpassword" placeholder="Password">
