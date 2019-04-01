@@ -173,7 +173,7 @@
   <div class="page-scroll"></div>
 
       <!--Login/Register Modal -->
-      <div class="modal fade login-modal-sm bg-primary" tabindex="-1" role="dialog"
+      <div class="modal fade login-modal-sm" tabindex="-1" role="dialog"
            aria-labelledby="myLargeModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-sm">
           <div class="modal-content" align="center">
