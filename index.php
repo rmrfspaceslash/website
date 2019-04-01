@@ -95,9 +95,9 @@
       <!--testing row number 3 // testing -->
       <div class="row">
         <div class="card">
-          <div class="card-block">
-            <h4 class="card-title">Test Title</h4>
-            <p class="card-text">Filler text to see how this section will be formatted and how the design looks overall
+          <div class="card-block rounded">
+            <h4 class="card-title ml-5">Test Title</h4>
+            <p class="card-text ml-5">Filler text to see how this section will be formatted and how the design looks overall
             This is nothing but filler text to see how this section will be formatted and how the design will looks
             Please note this is filler text.</p>
           </div>
@@ -120,8 +120,8 @@
           <!-- Project card 1 -->
           <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal1">
             <div class="card-body shadow">
-              <h4 class="card-title ml-2">Noah's Cloud</h4>
-              <p class="card-text ml-2">This is my website that your currently viewing. Click to find
+              <h4 class="card-title">Noah's Cloud</h4>
+              <p class="card-text">This is my website that your currently viewing. Click to find
                 out why I created this site</p>
             </div>
           </a>
