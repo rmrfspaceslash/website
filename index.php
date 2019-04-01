@@ -10,7 +10,6 @@
      <meta charset="utf-8">
      <title>Noah's Cloud</title>
      <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
-     <link href="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.css" rel="stylesheet">
    </head>
     <body style="background-color: #ededed;">
 
@@ -86,7 +85,7 @@
     </div><br>
 
     <!-- Row number 2 -->
-    <div class="row"  data-aos="fade-up">
+    <div class="row">
       <div class="col-lg-6 col-md-6 col-sm-12">
         <img class="d-block w-100" src="img/holder1.jpg" alt="Holder image">
       </div>
@@ -240,5 +239,4 @@
    </body>
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
    <script src="bootstrap/js/bootstrap.min.js"></script>
-   <script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
  </html>
