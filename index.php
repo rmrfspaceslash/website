@@ -63,6 +63,11 @@
       This is nothing but filler text to see how this section will be formatted and how the design will looks
       Please note this is filler text.</p>
     </div>
+    <div class="col">
+      <p>Filler text to see how this section will be formatted and how the design looks overall
+      This is nothing but filler text to see how this section will be formatted and how the design will looks
+      Please note this is filler text.</p>
+    </div>
 
 
     <!-- Begin Project section -->
