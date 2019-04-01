@@ -5363,7 +5363,9 @@ button.close {
 
 .modal-open {
   overflow: hidden;
-  padding-right: 0 !important
+  padding-right: 0 !important;
+  padding-left: 0 !important
+
 }
 
 .modal-open .modal {
