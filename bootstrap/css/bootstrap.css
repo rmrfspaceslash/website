@@ -4888,6 +4888,7 @@ input[type="button"].btn-block {
   height: 500px;
   background-size: cover;
   background-repeat: no-repeat;
+  width: calc(100vw - 17px);
 }
 
 .jumbotron-projects {
