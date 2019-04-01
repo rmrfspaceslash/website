@@ -175,34 +175,42 @@
       </div>
 
     </div><br>
+    <div class="container-fluid bg-secondary">
+      <hr class="my-4">
+      <div class="container-fluid bg-secondary">
+        <div class="container">
 
+          <form><br>
+
+            <div class="form-group row">
+              <label for="inputEmail3" class="col-sm-2 col-form-label">Email</label>
+              <div class="col-sm-10">
+                <input type="email" class="form-control" id="contactEmail" placeholder="Email">
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <label for="inputMessage" class="col-sm-2 col-form-label ">Message</label>
+              <div class="col-sm-10">
+                <textarea class="form-control" id="contactMessage" placeholder="Type your message here..." rows="3">
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-10 offset-sm-2">
+                <button type="submit" class="btn btn-success">Send</button>
+              </div>
+            </div>
+
+          </form>
+
+        </div>
+      </div>
+    </div>
     <div class="container">
       <h1 class="float-sm-right">Contact Me</h1><br>
     </div>
-    <hr class="my-4">
-    <div class="container-fluid bg-secondary">
-      <div class="container">
-        <form>
-          <div class="form-group row">
-            <label for="inputEmail3" class="col-sm-2 col-form-label">Email</label>
-            <div class="col-sm-10">
-              <input type="email" class="form-control" id="contactEmail" placeholder="Email">
-            </div>
-          </div>
-          <div class="form-group row">
-            <label for="inputEmail3" class="col-sm-2 col-form-label">Message</label>
-            <div class="col-sm-10">
-              <input type="textarea" class="form-control" id="contactMessage" placeholder="Type your message here...">
-            </div>
-          </div>
-          <div class="form-group row">
-            <div class="col-sm-10 offset-sm-2">
-              <button type="submit" class="btn btn-success">Send</button>
-            </div>
-          </div>
-        </form>
-      </div>
-    </div>
+
 
 
 
