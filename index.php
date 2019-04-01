@@ -80,14 +80,14 @@
         Please note this is filler text.</p>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12">
-        <img class="img-thumbnail" src="img/holder1.jpg" alt="Holder image">
+        <img class="img-thumbnail rounded w-50" src="img/holder1.jpg" alt="Holder image">
       </div>
     </div><br>
 
     <!-- Row number 2 -->
     <div class="row">
       <div class="col-lg-6 col-md-6 col-sm-12">
-        <img class="img-thumbnail" src="img/holder1.jpg" alt="Holder image">
+        <img class="img-thumbnail rounded w-50" src="img/holder1.jpg" alt="Holder image">
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12">
         <p>Filler text to see how this section will be formatted and how the design looks overall
