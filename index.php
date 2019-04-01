@@ -154,8 +154,8 @@
           <!-- Project card 5 -->
           <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal2">
             <div class="card-body shadow">
-              <h4 class="card-title">Generic project card</h4>
-              <p class="card-text">This is a holder for a project</p>
+              <h4 class="card-title">Noah's Ark</h4>
+              <p class="card-text">Self built cloud idea named Noah's Ark</p>
             </div>
           </a>
 
