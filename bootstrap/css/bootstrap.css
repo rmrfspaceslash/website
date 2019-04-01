@@ -9048,9 +9048,7 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
 }
-.modal {
- overflow-y: auto;
-}
+
 
 .modal-open {
  overflow: auto;
