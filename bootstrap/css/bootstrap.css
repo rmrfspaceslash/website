@@ -5362,12 +5362,12 @@ button.close {
 }
 
 .modal-open {
-  overflow: hidden;
+  overflow: auto;
 }
 
 .modal-open .modal {
   overflow-x: hidden;
-  overflow-y: hidden;
+  overflow-y: auto;
 }
 
 .modal {
@@ -5378,9 +5378,14 @@ button.close {
   left: 0;
   z-index: 1050;
   display: none;
-  overflow: hidden;
+  overflow-x: hidden;
   outline: 0;
 }
+
+.modal {
+ overflow-y: auto;
+}
+
 
 .modal-dialog {
   position: relative;
