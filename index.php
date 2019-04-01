@@ -87,7 +87,7 @@
         <div class="card-body shadow">
           <h4 class="card-title">Web-based Code Editor</h4>
           <p class="card-text">This editor is an idea I have for a simple web-based IDE</p>
-        </div>w
+        </div>
     </a>
   </div><br>
 
