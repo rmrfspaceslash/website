@@ -86,7 +86,7 @@
     </div><br>
 
     <!-- Row number 2 -->
-    <div class="row"  data-aos="fade-in">
+    <div class="row"  data-aos="fade-up">
       <div class="col-lg-6 col-md-6 col-sm-12">
         <img class="d-block w-100" src="img/holder1.jpg" alt="Holder image">
       </div>
