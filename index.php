@@ -71,7 +71,7 @@
         <div class="col-lg-6 col-md-6 col-sm-12">
           <img class="img-thumbnail rounded w-50" src="img/holder1.jpg" alt="Holder image">
         </div>
-        <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="col-lg-6 col-md-6 col-sm-12 appear-scroll">
           <p>Filler text to see how this section will be formatted and how the design looks overall
           This is nothing but filler text to see how this section will be formatted and how the design will looks
           Please note this is filler text.
@@ -81,7 +81,7 @@
 
       <!-- Row number 2 // South Hills-->
       <div class="row fade-scroll">
-        <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="col-lg-6 col-md-6 col-sm-12 appear-scroll">
           <img class="img-thumbnail rounded w-50 fade-scroll" src="img/holder1.jpg" alt="Holder image">
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 fade-scroll">
@@ -93,7 +93,7 @@
       </div><br>
 
       <!--testing row number 3 // testing -->
-      <div class="row fade-scroll">
+      <div class="row fade-scroll appear-scroll">
         <div class="card">
           <div class="card-block rounded pt-3 pb-3">
             <h4 class="card-title ml-3 mr-3">Test Title</h4>
@@ -280,6 +280,27 @@
                    var $this = $(this),
                        elemOffsetTop = $this.offset().top;
                    if (currScrollPos > elemOffsetTop) $this.css('opacity', 1 - (currScrollPos-elemOffsetTop)/200);
+               });
+           });
+
+       });
+
+   </script>
+   <script type="text/javascript">
+
+       $(function() {
+
+           var documentEl = $(document),
+               fadeElem = $('.appear-scroll');
+
+
+           documentEl.on('scroll', function() {
+               var currScrollPos = documentEl.scrollTop();
+
+               fadeElem.each(function() {
+                   var $this = $(this),
+                       elemOffsetTop = $this.offset().top;
+                   if (currScrollPos < elemOffsetTop) $this.css('opacity', 0 + (currScrollPos-elemOffsetTop)/200);
                });
            });
 
