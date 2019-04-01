@@ -5378,7 +5378,7 @@ button.close {
   left: 0;
   z-index: 1050;
   display: none;
-  overflow-x: hidden;
+  overflow-x: auto;
   outline: 0;
 }
 
