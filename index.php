@@ -17,7 +17,7 @@
         <div class="container" align="center">
 
        <!--navbar code -->
-       <nav class="navbar navbar-expand-sm justify-content-end fade-scroll" style="color: white;">
+       <nav class="navbar navbar-expand-sm justify-content-end" style="color: white;">
          <a class="navbar-brand mr-auto ml-1 btn btn-link">Noah's Cloud</a>
          <button class="navbar-toggler bg-dark" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
            <span class="navbar-toggler-icon"></span>
@@ -41,8 +41,8 @@
       </nav>
 
       <!--Hero text -->
-      <h1 class="display-2 fade-scroll" style="padding-top: 60px; color: white;" >Noah's Cloud</h1>
-      <p class="lead fade-scroll" style="color: white;">This is my website for all of my projects and stuff!</p>
+      <h1 class="display-2" style="padding-top: 60px; color: white;" >Noah's Cloud</h1>
+      <p class="lead" style="color: white;">This is my website for all of my projects and stuff!</p>
 
     </div>
   </div>
@@ -67,11 +67,11 @@
       <div class="container">
 
       <!--Row number 1 // High School-->
-      <div class="row fade-scroll">
+      <div class="row">
         <div class="col-lg-6 col-md-6 col-sm-12">
           <img class="img-thumbnail rounded w-50" src="img/holder1.jpg" alt="Holder image">
         </div>
-        <div class="col-lg-6 col-md-6 col-sm-12 appear-scroll">
+        <div class="col-lg-6 col-md-6 col-sm-12">
           <p>Filler text to see how this section will be formatted and how the design looks overall
           This is nothing but filler text to see how this section will be formatted and how the design will looks
           Please note this is filler text.
@@ -80,11 +80,11 @@
       </div><br>
 
       <!-- Row number 2 // South Hills-->
-      <div class="row fade-scroll">
-        <div class="col-lg-6 col-md-6 col-sm-12 appear-scroll">
-          <img class="img-thumbnail rounded w-50 fade-scroll" src="img/holder1.jpg" alt="Holder image">
+      <div class="row">
+        <div class="col-lg-6 col-md-6 col-sm-12">
+          <img class="img-thumbnail rounded w-50" src="img/holder1.jpg" alt="Holder image">
         </div>
-        <div class="col-lg-6 col-md-6 col-sm-12 fade-scroll">
+        <div class="col-lg-6 col-md-6 col-sm-12">
           <p>Filler text to see how this section will be formatted and how the design looks overall
           This is nothing but filler text to see how this section will be formatted and how the design will looks
           Please note this is filler text.
@@ -93,7 +93,7 @@
       </div><br>
 
       <!--testing row number 3 // testing -->
-      <div class="row fade-scroll appear-scroll">
+      <div class="row">
         <div class="card">
           <div class="card-block rounded pt-3 pb-3">
             <h4 class="card-title ml-3 mr-3">Test Title</h4>
