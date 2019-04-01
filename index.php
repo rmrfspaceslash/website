@@ -41,7 +41,7 @@
       </nav>
 
       <!--Hero text -->
-      <h1 class="display-2">Noah's Cloud</h1>
+      <h1 class="display-2" style="padding-top: 50px;" >Noah's Cloud</h1>
       <p class="lead">This is my website for all of my projects and stuff!</p>
 
     </div>
@@ -85,9 +85,7 @@
     </a>
   </div><br>
 
-  <!-- Begin About Me section -->
-  <h1 class="float-sm-right">About Me</h1><br>
-  <hr class="my-4">
+
 
 
 
