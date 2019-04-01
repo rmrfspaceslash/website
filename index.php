@@ -182,10 +182,19 @@
     </div>
     <hr class="my-4">
     <div class="container">
-      <form class="form-inline" action="index.html" method="post">
-        <input class="form-inline w-50" type="email" name="contactEmail" placeholder="Enter your email...">
-        <textarea class="form-inline w-50" name="contactMessage" placeholder="Enter your message..." rows="4"></textarea>
-        <input class="form-inline w-50" type="submit" name="contactSubmit" value="">
+      <form>
+        <div class="form-group row">
+          <label for="inputEmail3" class="col-sm-2 form-control-label">Email</label>
+          <div class="col-sm-10">
+            <input type="email" class="form-control" id="inputEmail3" placeholder="Email">
+          </div>
+        </div>
+        <div class="form-group row">
+          <label for="inputPassword3" class="col-sm-2 form-control-label">Password</label>
+          <div class="col-sm-10">
+            <input type="password" class="form-control" id="inputPassword3" placeholder="Password">
+          </div>
+        </div>
       </form>
     </div>
 
