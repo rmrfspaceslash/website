@@ -120,8 +120,8 @@
           <!-- Project card 1 -->
           <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal1">
             <div class="card-body shadow">
-              <h4 class="card-title">Noah's Cloud</h4>
-              <p class="card-text">This is my website that your currently viewing. Click to find
+              <h4 class="card-title ml-2">Noah's Cloud</h4>
+              <p class="card-text ml-2">This is my website that your currently viewing. Click to find
                 out why I created this site</p>
             </div>
           </a>
