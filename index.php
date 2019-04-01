@@ -63,28 +63,20 @@
     <hr class="my-4">
     <div class="container">
 
-    <!--Row number 1 -->
+    <!--Row number 1 // High School-->
     <div class="row">
+      <div class="col-lg-6 col-md-6 col-sm-12">
+        <img class="img-thumbnail rounded w-50" src="img/holder1.jpg" alt="Holder image">
+      </div>
       <div class="col-lg-6 col-md-6 col-sm-12">
         <p>Filler text to see how this section will be formatted and how the design looks overall
         This is nothing but filler text to see how this section will be formatted and how the design will looks
         Please note this is filler text.
-        Filler text to see how this section will be formatted and how the design looks overall
-        This is nothing but filler text to see how this section will be formatted and how the design will looks
-        Please note this is filler text.
-        Filler text to see how this section will be formatted and how the design looks overall
-        This is nothing but filler text to see how this section will be formatted and how the design will looks
-        Please note this is filler text.
-        Filler text to see how this section will be formatted and how the design looks overall
-        This is nothing but filler text to see how this section will be formatted and how the design will looks
-        Please note this is filler text.</p>
-      </div>
-      <div class="col-lg-6 col-md-6 col-sm-12">
-        <img class="img-thumbnail rounded w-50" src="img/holder1.jpg" alt="Holder image">
+        </p>
       </div>
     </div><br>
 
-    <!-- Row number 2 -->
+    <!-- Row number 2 // South Hills-->
     <div class="row">
       <div class="col-lg-6 col-md-6 col-sm-12">
         <img class="img-thumbnail rounded w-50" src="img/holder1.jpg" alt="Holder image">
@@ -93,15 +85,7 @@
         <p>Filler text to see how this section will be formatted and how the design looks overall
         This is nothing but filler text to see how this section will be formatted and how the design will looks
         Please note this is filler text.
-        Filler text to see how this section will be formatted and how the design looks overall
-        This is nothing but filler text to see how this section will be formatted and how the design will looks
-        Please note this is filler text.
-        Filler text to see how this section will be formatted and how the design looks overall
-        This is nothing but filler text to see how this section will be formatted and how the design will looks
-        Please note this is filler text.
-        Filler text to see how this section will be formatted and how the design looks overall
-        This is nothing but filler text to see how this section will be formatted and how the design will looks
-        Please note this is filler text.</p>
+        </p>
       </div>
     </div><br>
 
