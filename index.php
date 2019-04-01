@@ -195,7 +195,7 @@
             <textarea class="form-control" id="contactMessage" rows="4" placeholder="Enter your message here..."></textarea>
           </div>
         </div>
-        <div class="form-group row">
+        <div class="float-sm-right w-25">
           <button class="btn btn-success float-sm-right" type="button" name="contactSubmit" value="Submit Message"></button>
         </div>
       </form>
