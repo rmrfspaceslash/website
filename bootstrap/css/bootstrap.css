@@ -68,7 +68,6 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff;
-  width: calc(100vw - 17px);
 }
 
 [tabindex="-1"]:focus {
@@ -5363,9 +5362,6 @@ button.close {
 
 .modal-open {
   overflow: hidden;
-  padding-right: 0 !important;
-  padding-left: 0 !important;
-
 }
 
 .modal-open .modal {
@@ -9052,9 +9048,6 @@ a.text-dark:hover, a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6;
   }
-}
-.modal-open[style] {
-padding-right: 0px !important;
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
