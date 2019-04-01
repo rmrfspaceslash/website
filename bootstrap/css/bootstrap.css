@@ -68,7 +68,7 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff;
-  width: calc(100vw - 17px);
+  width: calc(100vw - 17px) !important;
 }
 
 [tabindex="-1"]:focus {
