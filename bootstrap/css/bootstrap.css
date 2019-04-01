@@ -59,7 +59,6 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 }
 
 
-
 body {
   margin: 0;
   font-family: Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -69,6 +68,7 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff;
+  width: calc(100vw - 17px);
 }
 
 [tabindex="-1"]:focus {
@@ -5362,7 +5362,7 @@ button.close {
 }
 
 .modal-open {
-  overflow: auto;
+  overflow: hidden;
 }
 
 .modal-open .modal {
@@ -5378,14 +5378,9 @@ button.close {
   left: 0;
   z-index: 1050;
   display: none;
-  overflow-x: auto;
+  overflow: hidden;
   outline: 0;
 }
-
-.modal {
- overflow-y: auto;
-}
-
 
 .modal-dialog {
   position: relative;
