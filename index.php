@@ -69,9 +69,9 @@
       <!--Row number 1 // High School-->
       <div class="row">
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <img class="img-thumbnail rounded w-50" src="img/holder1.jpg" alt="Holder image">
+          <img class="img-thumbnail rounded w-50 fade-scroll" src="img/holder1.jpg" alt="Holder image">
         </div>
-        <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="col-lg-6 col-md-6 col-sm-12 fade-scroll">
           <p>Filler text to see how this section will be formatted and how the design looks overall
           This is nothing but filler text to see how this section will be formatted and how the design will looks
           Please note this is filler text.
@@ -82,9 +82,9 @@
       <!-- Row number 2 // South Hills-->
       <div class="row">
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <img class="img-thumbnail rounded w-50" src="img/holder1.jpg" alt="Holder image">
+          <img class="img-thumbnail rounded w-50 fade-scroll" src="img/holder1.jpg" alt="Holder image">
         </div>
-        <div class="col-lg-6 col-md-6 col-sm-12">
+        <div class="col-lg-6 col-md-6 col-sm-12 fade-scroll">
           <p>Filler text to see how this section will be formatted and how the design looks overall
           This is nothing but filler text to see how this section will be formatted and how the design will looks
           Please note this is filler text.
@@ -264,4 +264,28 @@
    </body>
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
    <script src="bootstrap/js/bootstrap.min.js"></script>
+
+   <script type="text/javascript">
+
+       $(function() {
+
+           var documentEl = $(document),
+               fadeElem = $('.fade-scroll');
+
+
+           documentEl.on('scroll', function() {
+               var currScrollPos = documentEl.scrollTop();
+
+               fadeElem.each(function() {
+                   var $this = $(this),
+                       elemOffsetTop = $this.offset().top;
+                   if (currScrollPos > elemOffsetTop) $this.css('opacity', 1 - (currScrollPos-elemOffsetTop)/400);
+               });
+           });
+
+       });
+
+   </script>
+
+
  </html>
