@@ -104,7 +104,7 @@
     <!-- Begin Project section -->
     <h1 class="float-sm-right">Projects</h1><br>
     <hr class="my-4">
-</div>
+  </div>
 
     <div class="jumbotron-projects jumbotron-fluid">
       <div class="container">
@@ -168,7 +168,15 @@
         </div>
       </div>
 
+    </div><br>
+
+    <div class="container">
+      <h1 class="float-sm-right">Contact Me</h1><br>
     </div>
+    <hr class="my-4">
+
+
+
 
   <div class="page-scroll"></div>
 
