@@ -196,7 +196,7 @@
           </div>
         </div>
         <div class="float-sm-right w-25">
-          <button class="btn btn-success float-sm-right" type="button" name="contactSubmit" value="Submit Message"></button>
+          <button class="btn btn-success" type="button" name="contactSubmit" value="Submit Message"></button>
         </div>
       </form>
     </div>
