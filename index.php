@@ -59,6 +59,8 @@
     <h1 class="float-sm-right">About Me</h1><br>
     <hr class="my-4">
     <div class="row">
+
+      <!-- Row number 1 -->
       <div class="col-lg-6 col-md-6 col-sm-12">
         <p>Filler text to see how this section will be formatted and how the design looks overall
         This is nothing but filler text to see how this section will be formatted and how the design will looks
@@ -75,6 +77,27 @@
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12">
         <img class="d-block w-100" src="img/holder1.jpg" alt="Holder image">
+      </div>
+    </div>
+
+    <!-- Row number 2 -->
+    <div class="row">
+      <div class="col-lg-6 col-md-6 col-sm-12">
+        <img class="d-block w-100" src="img/holder1.jpg" alt="Holder image">
+      </div>
+      <div class="col-lg-6 col-md-6 col-sm-12">
+        <p>Filler text to see how this section will be formatted and how the design looks overall
+        This is nothing but filler text to see how this section will be formatted and how the design will looks
+        Please note this is filler text.
+        Filler text to see how this section will be formatted and how the design looks overall
+        This is nothing but filler text to see how this section will be formatted and how the design will looks
+        Please note this is filler text.
+        Filler text to see how this section will be formatted and how the design looks overall
+        This is nothing but filler text to see how this section will be formatted and how the design will looks
+        Please note this is filler text.
+        Filler text to see how this section will be formatted and how the design looks overall
+        This is nothing but filler text to see how this section will be formatted and how the design will looks
+        Please note this is filler text.</p>
       </div>
     </div><br>
 
@@ -147,16 +170,7 @@
 
     </div>
 
-
-
-
-
-
-
-
   <div class="page-scroll"></div>
-
-
 
       <!--Login/Register Modal -->
       <div class="modal fade login-modal-sm bg-secondary" tabindex="-1" role="dialog"
