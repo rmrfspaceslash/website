@@ -183,9 +183,9 @@
     <hr class="my-4">
     <div class="container">
       <form class="form-inline" action="index.html" method="post">
-        <input type="email" name="contactEmail" placeholder="Enter your email...">
-        <textarea class="form-inline" name="contactMessage" placeholder="Enter your message..." rows="4"></textarea>
-        <input type="submit" name="contactSubmit" value="">
+        <input class="form-inline w-50" type="email" name="contactEmail" placeholder="Enter your email...">
+        <textarea class="form-inline w-50" name="contactMessage" placeholder="Enter your message..." rows="4"></textarea>
+        <input class="form-inline w-50" type="submit" name="contactSubmit" value="">
       </form>
     </div>
 
