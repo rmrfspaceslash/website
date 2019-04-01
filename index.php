@@ -111,7 +111,7 @@
               <p class="card-text">This editor is an idea I have for a simple web-based IDE</p>
             </div>
           </a>
-        </div><br>
+        </div>
       </div>
 
     </div>
