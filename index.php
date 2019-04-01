@@ -13,7 +13,7 @@
    </head>
     <body>
 
-      <div class="jumbotron jumbotron-fluid">
+      <div class="jumbotron-header jumbotron-fluid">
         <div class="container" align="center">
 
        <!--navbar code -->
@@ -83,7 +83,7 @@
     <hr class="my-4">
 </div>
 
-    <div class="jumbotron jumbotron-fluid">
+    <div class="jumbotron-projects jumbotron-fluid">
       <div class="container">
 
         <div class="card-deck">
