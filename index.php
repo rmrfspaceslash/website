@@ -54,13 +54,16 @@
     <div class="alert alert-danger" role="alert">
       <strong>Hey Listen!</strong> This website is not complete! It is getting updated daily! Start Date: 3/31/19 | Last Modified: 4/1/19
     </div>
+  </div>
 
     <!-- Begin About Me section -->
-    <h1 class="float-sm-right">About Me</h1><br>
+    <div class="container">
+      <h1 class="float-sm-right">About Me</h1><br>
+    </div>
     <hr class="my-4">
-    <div class="row">
 
-      <!-- Row number 1 -->
+    <!--Row number 1 -->
+    <div class="row">
       <div class="col-lg-6 col-md-6 col-sm-12">
         <p>Filler text to see how this section will be formatted and how the design looks overall
         This is nothing but filler text to see how this section will be formatted and how the design will looks
@@ -101,10 +104,12 @@
       </div>
     </div><br>
 
-    <!-- Begin Project section -->
-    <h1 class="float-sm-right">Projects</h1><br>
-    <hr class="my-4">
   </div>
+    <!-- Begin Project section -->
+    <div class="container">
+      <h1 class="float-sm-right">My Projects</h1><br>
+    </div>
+    <hr class="my-4">
 
     <div class="jumbotron-projects jumbotron-fluid">
       <div class="container">
