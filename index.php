@@ -95,9 +95,9 @@
       <!--testing row number 3 // testing -->
       <div class="row">
         <div class="card">
-          <div class="card-block rounded pt-5 pb-5">
-            <h4 class="card-title ml-5 mr-5">Test Title</h4>
-            <p class="card-text ml-5 mr-5">Filler text to see how this section will be formatted and how the design looks overall
+          <div class="card-block rounded pt-3 pb-3">
+            <h4 class="card-title ml-3 mr-3">Test Title</h4>
+            <p class="card-text ml-3 mr-3">Filler text to see how this section will be formatted and how the design looks overall
             This is nothing but filler text to see how this section will be formatted and how the design will looks
             Please note this is filler text.</p>
           </div>
