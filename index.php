@@ -48,7 +48,7 @@
   </div>
 
   <!-- main body text cards -->
-  <div class="container">
+  <div class="container shadow">
 
     <!-- temp non-finished alert -->
     <div class="alert alert-danger" role="alert">
