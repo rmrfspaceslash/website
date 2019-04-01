@@ -10,6 +10,7 @@
      <meta charset="utf-8">
      <title>Noah's Cloud</title>
      <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+     <link rel="stylesheet" href="bootstrap/css/custom.css">
    </head>
     <body style="background-color: #ededed;">
 
@@ -264,49 +265,6 @@
    </body>
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
    <script src="bootstrap/js/bootstrap.min.js"></script>
-
-   <script type="text/javascript">
-
-       $(function() {
-
-           var documentEl = $(document),
-               fadeElem = $('.fade-scroll');
-
-
-           documentEl.on('scroll', function() {
-               var currScrollPos = documentEl.scrollTop();
-
-               fadeElem.each(function() {
-                   var $this = $(this),
-                       elemOffsetTop = $this.offset().top;
-                   if (currScrollPos > elemOffsetTop) $this.css('opacity', 1 - (currScrollPos-elemOffsetTop)/200);
-               });
-           });
-
-       });
-
-   </script>
-   <script type="text/javascript">
-
-       $(function() {
-
-           var documentEl = $(document),
-               fadeElem = $('.appear-scroll');
-
-
-           documentEl.on('scroll', function() {
-               var currScrollPos = documentEl.scrollTop();
-
-               fadeElem.each(function() {
-                   var $this = $(this),
-                       elemOffsetTop = $this.offset().top;
-                   if (currScrollPos < elemOffsetTop) $this.css('opacity', 0 + (currScrollPos-elemOffsetTop)/200);
-               });
-           });
-
-       });
-
-   </script>
 
 
  </html>
