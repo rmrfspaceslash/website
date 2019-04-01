@@ -92,6 +92,12 @@
         </div>
       </div><br>
 
+      <!--testing row number 3 // testing -->
+      <div class="row">
+        <div class="card">
+        </div>
+      </div><br>
+
       </div>
 
     <!-- Begin Project section -->
