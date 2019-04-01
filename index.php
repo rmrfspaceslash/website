@@ -41,8 +41,8 @@
       </nav>
 
       <!--Hero text -->
-      <h1 class="display-2" style="padding-top: 50px;" >Noah's Cloud</h1>
-      <p class="lead">This is my website for all of my projects and stuff!</p>
+      <h1 class="display-2" style="padding-top: 60px; color: white;" >Noah's Cloud</h1>
+      <p class="lead" style="color: white;">This is my website for all of my projects and stuff!</p>
 
     </div>
   </div>
