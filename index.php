@@ -268,7 +268,7 @@
 
    <script>
     $(document).ready(function(){
-      $('.card-body').hover(
+      $('.card').hover(
         function(){
           $(this).animate({
             marginTop: "-=1%",
