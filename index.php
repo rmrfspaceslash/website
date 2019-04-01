@@ -174,13 +174,14 @@
         </div>
       </div>
 
-    </div><br>
+    </div>
     <div class="container-fluid bg-secondary">
+      <div class="container">
+        <h1 class="float-sm-right">Contact Me</h1><br>
+      </div>
       <hr class="my-4">
       <div class="container-fluid bg-secondary">
-        <div class="container">
-          <h1 class="float-sm-right">Contact Me</h1><br>
-        </div>
+
         <div class="container">
 
           <form><br>
