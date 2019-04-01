@@ -62,7 +62,7 @@
     </div>
     <hr class="my-4">
     <!--Begin About me section -->
-    <div class="jumbotron-about">
+    <div class="jumbotron-about jumbotron-fluid">
       <div class="container">
 
       <!--Row number 1 // High School-->
