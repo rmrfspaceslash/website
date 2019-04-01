@@ -86,6 +86,7 @@
     <div class="jumbotron-projects jumbotron-fluid">
       <div class="container">
 
+        <!-- Card deck 1 -->
         <div class="card-deck">
           <!-- Project card 1 -->
           <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal1">
@@ -112,30 +113,33 @@
             </div>
           </a>
         </div>
+
         <br>
+
+        <!-- Card deck 1 -->
         <div class="card-deck">
           <!-- Project card 4 -->
           <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal1">
             <div class="card-body shadow">
-              <h4 class="card-title">Noah's Cloud</h4>
-              <p class="card-text">This is my website that your currently viewing. Click to find
-                out why I created this site</p>
+              <h4 class="card-title">Web-based Note Taker</h4>
+              <p class="card-text">This project is an idea I have for an online note taker. Nothing fancy, just
+                a place to keep notes.</p>
             </div>
           </a>
 
           <!-- Project card 5 -->
           <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal2">
             <div class="card-body shadow">
-              <h4 class="card-title">Sunday Night Drive</h4>
-              <p class="card-text">This is a podcast focusing on updates in the tech world</p>
+              <h4 class="card-title">Generic project card</h4>
+              <p class="card-text">This is a holder for a project</p>
             </div>
           </a>
 
           <!-- Project card 6 -->
           <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal3">
             <div class="card-body shadow">
-              <h4 class="card-title">Web-based Code Editor</h4>
-              <p class="card-text">This editor is an idea I have for a simple web-based IDE</p>
+              <h4 class="card-title">Generic project card</h4>
+              <p class="card-text">This is a holder for a project</p>
             </div>
           </a>
         </div>
