@@ -34,11 +34,11 @@
                <a class="nav-link btn btn-link">Projects</a>
              </li>
              <li class="nav-item">
-               <a class="nav-link btn btn-link" data-toggle="modal" data-target=".login-modal-lg">Login/Register</a>
+               <a class="nav-link btn btn-link" data-toggle="modal" data-target=".login-modal-sm">Login/Register</a>
              </li>
            </ul>
         </div>
-      </nav><hr class="my-4">
+      </nav>
 
       <!--Hero text -->
       <h1 class="display-2">Noah's Cloud</h1>
@@ -99,7 +99,7 @@
 
 
       <!--Login/Register Modal -->
-      <div class="modal-sm fade login-modal-sm bg-secondary" tabindex="-1" role="dialog"
+      <div class="modal fade login-modal-sm bg-secondary" tabindex="-1" role="dialog"
            aria-labelledby="myLargeModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-sm">
           <div class="modal-content" align="center">
