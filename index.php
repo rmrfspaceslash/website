@@ -77,14 +77,15 @@
         <img class="d-block w-100" src="img/holder1.jpg" alt="Holder image">
       </div>
     </div><br>
-</div>
 
+    <!-- Begin Project section -->
     <h1 class="float-sm-right">Projects</h1><br>
     <hr class="my-4">
-    <!-- Begin Project section -->
+</div>
+
     <div class="jumbotron jumbotron-fluid">
       <div class="container">
-        
+
         <div class="card-deck">
           <!-- Project card 1 -->
           <a class="card" href="" style="color: inherit;" data-toggle="modal" data-target=".projmodal1">
