@@ -13,7 +13,7 @@
    </head>
     <body>
 
-      <div class="jumbotron jumbotron-fluid">
+      <div class="jumbotron jumbotron-fluid shadow-sm">
         <div class="container" align="center">
 
        <!--navbar code -->
@@ -48,7 +48,7 @@
   </div>
 
   <!-- main body text cards -->
-  <div class="container shadow-sm">
+  <div class="container">
 
     <!-- temp non-finished alert -->
     <div class="alert alert-danger" role="alert">
