@@ -76,7 +76,7 @@
       <div class="col-lg-6 col-md-6 col-sm-12">
         <img class="d-block w-100" src="img/holder1.jpg" alt="Holder image">
       </div>
-    </div>
+    </div><br>
 
     <!-- Begin Project section -->
     <h1 class="float-sm-right">Projects</h1><br>
