@@ -74,7 +74,7 @@
         Please note this is filler text.</p>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12">
-        <img class="d-block w-100 shadow-lg" src="img/holder1.jpg" alt="Holder image">
+        <img class="w-100 shadow-lg" src="img/holder1.jpg" alt="Holder image">
       </div>
     </div><br>
 
