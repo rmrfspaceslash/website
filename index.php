@@ -55,6 +55,12 @@
       <strong>Hey Listen!</strong> This website is not complete! It is getting updated daily! Start Date: 3/31/19 | Last Modified: 3/31/19
     </div>
 
+    <!-- Begin About Me section -->
+    <h1 class="float-sm-right">About Me</h1><br>
+    <hr class="my-4">
+
+
+    <!-- Begin Project section -->
     <h1 class="float-sm-right">Projects</h1><br>
     <hr class="my-4">
 
@@ -85,6 +91,7 @@
     </a>
   </div><br>
 
+</div>
 
 
 
