@@ -96,7 +96,7 @@
 
     <!-- Begin Project section -->
     <div class="container">
-      <h1 class="float-sm-right">My Projects</h1>
+      <h1 class="float-sm-right">My Projects</h1><br>
     </div>
     <hr class="my-4">
 </div>
