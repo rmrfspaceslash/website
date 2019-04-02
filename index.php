@@ -185,13 +185,13 @@
             <div class="form-group row">
               <label for="contactEmail" class="col-sm-2 form-control-label" data-aos="fade-right" data-aos-duration="3000">Email</label>
               <div class="col-sm-10">
-                <input type="email" class="form-control" id="contactEmail" placeholder="Email" data-aos="fade-up" data-aos-duration="3000">
+                <input type="email" class="form-control shadow" id="contactEmail" placeholder="Email" data-aos="fade-up" data-aos-duration="3000">
               </div>
             </div>
             <div class="form-group row">
               <label for="contactMessage" class="col-sm-2 form-control-label" data-aos="fade-right" data-aos-duration="3000">Message</label>
               <div class="col-sm-10">
-                <textarea class="form-control" id="contactMessage" rows="4" placeholder="Enter your message here..." data-aos="fade-up" data-aos-duration="3000"></textarea>
+                <textarea class="form-control shadow" id="contactMessage" rows="4" placeholder="Enter your message here..." data-aos="fade-up" data-aos-duration="3000"></textarea>
               </div>
             </div>
             <div class="float-sm-right w-25">
