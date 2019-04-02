@@ -221,7 +221,7 @@
               </div>
             </div>
             <div class="float-sm-right w-25">
-              <button class="btn btn-success w-100" type="button" name="contactSubmit">Submit Message</button>
+              <button class="btn btn-success w-100" type="button" name="contactSubmit" data-aos="fade-up" data-aos-duration="3000">Submit Message</button>
             </div>
           </form>
         </div>
