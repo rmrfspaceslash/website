@@ -68,7 +68,7 @@
 
           <!--Row number 1 // High School-->
           <div class="row" data-aos="fade-right" data-aos-duration="3000">
-            <div class="card bg-light">
+            <div class="card bg-light shadow">
               <div class="card-block rounded pt-3 pb-3">
                 <h4 class="card-title ml-3 mr-3">Test Title</h4>
                 <p class="card-text ml-3 mr-3">Filler text to see how this section will be formatted and how the design looks overall
@@ -80,7 +80,7 @@
 
           <!-- Row number 2 // South Hills-->
           <div class="row" data-aos="fade-right" data-aos-duration="3000">
-            <div class="card bg-light">
+            <div class="card bg-light shadow">
               <div class="card-block rounded pt-3 pb-3">
                 <h4 class="card-title ml-3 mr-3">Test Title</h4>
                 <p class="card-text ml-3 mr-3">Filler text to see how this section will be formatted and how the design looks overall
@@ -92,7 +92,7 @@
 
           <!--testing row number 3 // testing -->
           <div class="row" data-aos="fade-right" data-aos-duration="3000">
-            <div class="card bg-light">
+            <div class="card bg-light shadow">
               <div class="card-block rounded pt-3 pb-3">
                 <h4 class="card-title ml-3 mr-3">Test Title</h4>
                 <p class="card-text ml-3 mr-3">Filler text to see how this section will be formatted and how the design looks overall
@@ -101,28 +101,6 @@
                 </div>
               </div>
             </div><br>
-
-
-
-
-      <!--
-      <div class=" flip-card">
-        <div class="flip-card-inner">
-          <div class="flip-card-front">
-            <img src="img/holderimg1.jpg" alt="Holder Image">
-          </div>
-          <div class="flip-card-back">
-            <h1>John Doe</h1>
-            <p>Architect & Engineer</p>
-            <p>We love that guy</p>
-          </div>
-        </div>
-      </div>
-    -->
-
-
-
-
 
 
         </div>
