@@ -30,10 +30,10 @@
                 <a class="nav-link btn btn-link" id="scrollAbout">About</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link btn btn-link">Contact</a>
+                <a class="nav-link btn btn-link" id="scrollProjects">Projects</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link btn btn-link">Projects</a>
+                <a class="nav-link btn btn-link" id="scrollContact">Contact</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link btn btn-link" data-toggle="modal" data-target=".login-modal-sm">Login/Register</a>
@@ -129,7 +129,7 @@
 
         <!-- Begin Project section -->
         <div class="container">
-          <h1 class="float-sm-right" data-aos="fade-left" data-aos-duration="3000">My Projects</h1><br>
+          <h1 class="float-sm-right" data-aos="fade-left" data-aos-duration="3000" id="myProjects">My Projects</h1><br>
         </div>
         <hr class="my-4" data-aos="slide-right" data-aos-duration="8000">
       </div>
@@ -199,7 +199,7 @@
 
         <!-- Begin contact me section -->
         <div class="container">
-          <h1 class="float-sm-right" data-aos="fade-left" data-aos-duration="3000">Contact Me</h1><br>
+          <h1 class="float-sm-right" data-aos="fade-left" data-aos-duration="3000" id="contactMe">Contact Me</h1><br>
         </div>
         <hr class="my-4" data-aos="slide-right" data-aos-duration="8000">
         <div class="container">
@@ -289,12 +289,32 @@
     <script type="text/javascript">
       AOS.init();
     </script>
-
+    <!-- Add About scrolling from menu -->
     <script>
         $(document).ready(function (){
             $("#scrollAbout").click(function (){
                 $('html, body').animate({
                     scrollTop: $("#aboutMe").offset().top
+                }, 2000);
+            });
+        });
+    </script>
+    <!-- Add My Projects scrolling from menu -->
+    <script>
+        $(document).ready(function (){
+            $("#scrollProjects").click(function (){
+                $('html, body').animate({
+                    scrollTop: $("#myProjects").offset().top
+                }, 2000);
+            });
+        });
+    </script>
+    <!-- Add My Projects scrolling from menu -->
+    <script>
+        $(document).ready(function (){
+            $("#scrollContact").click(function (){
+                $('html, body').animate({
+                    scrollTop: $("#contactMe").offset().top
                 }, 2000);
             });
         });
