@@ -69,7 +69,7 @@
         <div class="container">
 
           <!--Row number 1 // High School-->
-          <div class="row">
+          <div class="row" data-aos="fade-up">
             <div class="col-lg-6 col-md-6 col-sm-12">
               <img class="img-thumbnail rounded w-50" src="img/holder1.jpg" alt="Holder image">
             </div>
@@ -82,7 +82,7 @@
           </div><br>
 
           <!-- Row number 2 // South Hills-->
-          <div class="row">
+          <div class="row" data-aos="fade-up">
             <div class="col-lg-6 col-md-6 col-sm-12">
               <img class="img-thumbnail rounded w-50" src="img/holder1.jpg" alt="Holder image">
             </div>
