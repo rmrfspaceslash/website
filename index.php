@@ -68,29 +68,27 @@
 
           <!--Row number 1 // High School-->
           <div class="row" data-aos="fade-up" data-aos-duration="3000">
-            <div class="col-lg-6 col-md-6 col-sm-12">
-              <img class="img-thumbnail rounded w-50" src="img/holder1.jpg" alt="Holder image">
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-12">
-              <p>Filler text to see how this section will be formatted and how the design looks overall
-                This is nothing but filler text to see how this section will be formatted and how the design will looks
-                Please note this is filler text.
-              </p>
-            </div>
-          </div><br>
+            <div class="card bg-light">
+              <div class="card-block rounded pt-3 pb-3">
+                <h4 class="card-title ml-3 mr-3">Test Title</h4>
+                <p class="card-text ml-3 mr-3">Filler text to see how this section will be formatted and how the design looks overall
+                  This is nothing but filler text to see how this section will be formatted and how the design will looks
+                  Please note this is filler text.</p>
+                </div>
+              </div>
+            </div><br>
 
           <!-- Row number 2 // South Hills-->
           <div class="row" data-aos="fade-up" data-aos-duration="3000">
-            <div class="col-lg-6 col-md-6 col-sm-12">
-              <img class="img-thumbnail rounded w-50" src="img/holder1.jpg" alt="Holder image">
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-12">
-              <p>Filler text to see how this section will be formatted and how the design looks overall
-                This is nothing but filler text to see how this section will be formatted and how the design will looks
-                Please note this is filler text.
-              </p>
-            </div>
-          </div><br>
+            <div class="card bg-light">
+              <div class="card-block rounded pt-3 pb-3">
+                <h4 class="card-title ml-3 mr-3">Test Title</h4>
+                <p class="card-text ml-3 mr-3">Filler text to see how this section will be formatted and how the design looks overall
+                  This is nothing but filler text to see how this section will be formatted and how the design will looks
+                  Please note this is filler text.</p>
+                </div>
+              </div>
+            </div><br>
 
           <!--testing row number 3 // testing -->
           <div class="row" data-aos="fade-up" data-aos-duration="3000">
