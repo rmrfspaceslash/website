@@ -36,7 +36,7 @@
                 <a class="nav-link btn btn-link" id="scrollContact">Contact</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link btn btn-link" href="login.php" >Login/Register</a>
+                <a class="nav-link btn btn-link" href="login.php" style="color: white;">Login/Register</a>
               </li>
             </ul>
           </div>
