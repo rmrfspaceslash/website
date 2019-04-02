@@ -141,7 +141,7 @@
         <div class="container">
 
           <!-- Card deck 1 -->
-          <div class="card-deck">
+          <div class="card-deck" data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-delay="300" data-aos-offset="0">
             <!-- Project card 1 -->
             <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal1">
               <div class="card-body shadow">
