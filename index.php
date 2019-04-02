@@ -12,7 +12,7 @@
      <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
      <link rel="stylesheet" href="bootstrap/css/custom.css">
    </head>
-    <body style="background-color: #ededed;">
+    <body>
 
     <div class="jumbotron-header jumbotron-fluid">
       <div class="container" align="center">
@@ -289,7 +289,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
 
-
+<!--
    <script>
     $(document).ready(function(){
       $('.card').hover(
@@ -306,5 +306,5 @@
       );
     });
    </script>
-
+-->
  </html>
