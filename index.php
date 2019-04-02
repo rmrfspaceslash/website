@@ -225,9 +225,7 @@
           </form>
         </div>
 
-        <!--
         <div class="page-scroll"></div>
-      -->
 
         <!--Login/Register Modal -->
         <div class="modal fade login-modal-sm" tabindex="-1" role="dialog"
