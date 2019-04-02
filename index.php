@@ -139,7 +139,7 @@
         <div class="container">
 
           <!-- Card deck 1 -->
-          <div class="card-deck" data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-delay="200" data-aos-offset="0" data-aos-duration="2000">
+          <div class="card-deck" data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-offset="0" data-aos-duration="1000">
             <!-- Project card 1 -->
             <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal1">
               <div class="card-body shadow">
@@ -169,7 +169,7 @@
           <br>
 
           <!-- Card deck 2 -->
-          <div class="card-deck" data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-delay="200" data-aos-offset="0" data-aos-duration="2000">
+          <div class="card-deck" data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-offset="0" data-aos-duration="1000">
             <!-- Project card 4 -->
             <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal1">
               <div class="card-body shadow">
