@@ -67,7 +67,7 @@
         <div class="container">
 
           <!--Row number 1 // High School-->
-          <div class="row" data-aos="fade-up" data-aos-duration="3000">
+          <div class="row" data-aos="fade-right" data-aos-duration="3000">
             <div class="card bg-light">
               <div class="card-block rounded pt-3 pb-3">
                 <h4 class="card-title ml-3 mr-3">Test Title</h4>
@@ -79,7 +79,7 @@
             </div><br>
 
           <!-- Row number 2 // South Hills-->
-          <div class="row" data-aos="fade-up" data-aos-duration="3000">
+          <div class="row" data-aos="fade-right" data-aos-duration="3000">
             <div class="card bg-light">
               <div class="card-block rounded pt-3 pb-3">
                 <h4 class="card-title ml-3 mr-3">Test Title</h4>
@@ -91,7 +91,7 @@
             </div><br>
 
           <!--testing row number 3 // testing -->
-          <div class="row" data-aos="fade-up" data-aos-duration="3000">
+          <div class="row" data-aos="fade-right" data-aos-duration="3000">
             <div class="card bg-light">
               <div class="card-block rounded pt-3 pb-3">
                 <h4 class="card-title ml-3 mr-3">Test Title</h4>
