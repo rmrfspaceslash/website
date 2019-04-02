@@ -133,9 +133,9 @@
 
         <!-- Begin Project section -->
         <div class="container">
-          <h1 class="float-sm-right">My Projects</h1><br>
+          <h1 class="float-sm-right" data-aos="fade-left" data-aos-duration="3000">My Projects</h1><br>
         </div>
-        <hr class="my-4">
+        <hr class="my-4" data-aos="slide-right" data-aos-duration="8000">
       </div>
       <div class="jumbotron-projects jumbotron-fluid">
         <div class="container">
@@ -203,21 +203,21 @@
 
         <!-- Begin contact me section -->
         <div class="container">
-          <h1 class="float-sm-right">Contact Me</h1><br>
+          <h1 class="float-sm-right" data-aos="fade-left" data-aos-duration="3000">Contact Me</h1><br>
         </div>
-        <hr class="my-4">
+        <hr class="my-4" data-aos="slide-right" data-aos-duration="8000">
         <div class="container">
           <form>
             <div class="form-group row">
-              <label for="contactEmail" class="col-sm-2 form-control-label">Email</label>
+              <label for="contactEmail" class="col-sm-2 form-control-label" data-aos="fade-right" data-aos-duration="3000">Email</label>
               <div class="col-sm-10">
-                <input type="email" class="form-control" id="contactEmail" placeholder="Email">
+                <input type="email" class="form-control" id="contactEmail" placeholder="Email" data-aos="fade-up" data-aos-duration="3000">
               </div>
             </div>
             <div class="form-group row">
-              <label for="contactMessage" class="col-sm-2 form-control-label">Message</label>
+              <label for="contactMessage" class="col-sm-2 form-control-label" data-aos="fade-right" data-aos-duration="3000">Message</label>
               <div class="col-sm-10">
-                <textarea class="form-control" id="contactMessage" rows="4" placeholder="Enter your message here..."></textarea>
+                <textarea class="form-control" id="contactMessage" rows="4" placeholder="Enter your message here..." data-aos="fade-up" data-aos-duration="3000"></textarea>
               </div>
             </div>
             <div class="float-sm-right w-25">
