@@ -137,9 +137,9 @@
         <div class="container">
 
           <!-- Card deck 1 -->
-          <div class="card-deck" data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-offset="0" data-aos-duration="1000">
+          <div class="card-deck">
             <!-- Project card 1 -->
-            <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal1">
+            <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal1  data-aos="fade-right" data-aos-easing="ease-in-back" data-aos-offset="0" data-aos-duration="1000"">
               <div class="card-body shadow">
                 <h4 class="card-title">Noah's Cloud</h4>
                 <p class="card-text">This is my website that your currently viewing. Click to find
@@ -148,7 +148,7 @@
             </a>
 
             <!-- Project card 2 -->
-            <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal2">
+            <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal2"  data-aos="fade-down" data-aos-easing="ease-in-back" data-aos-offset="0" data-aos-duration="1000">
               <div class="card-body shadow">
                 <h4 class="card-title">Sunday Night Drive</h4>
                 <p class="card-text">This is a podcast focusing on updates in the tech world</p>
@@ -156,7 +156,7 @@
             </a>
 
             <!-- Project card 3 -->
-            <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal3">
+            <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal3"  data-aos="fade-left" data-aos-easing="ease-in-back" data-aos-offset="0" data-aos-duration="1000">
               <div class="card-body shadow">
                 <h4 class="card-title">Web-based Code Editor</h4>
                 <p class="card-text">This editor is an idea I have for a simple web-based IDE</p>
@@ -167,9 +167,9 @@
           <br>
 
           <!-- Card deck 2 -->
-          <div class="card-deck" data-aos="fade-zoom-in" data-aos-easing="ease-in-back" data-aos-offset="0" data-aos-duration="1000">
+          <div class="card-deck">
             <!-- Project card 4 -->
-            <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal1">
+            <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal1"  data-aos="fade-right" data-aos-easing="ease-in-back" data-aos-offset="0" data-aos-duration="1000">
               <div class="card-body shadow">
                 <h4 class="card-title">Web-based Note Taker</h4>
                 <p class="card-text">This project is an idea I have for an online note taker. Nothing fancy, just
@@ -178,7 +178,7 @@
               </a>
 
               <!-- Project card 5 -->
-              <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal2">
+              <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal2"  data-aos="fade-up" data-aos-easing="ease-in-back" data-aos-offset="0" data-aos-duration="1000">
                 <div class="card-body shadow">
                   <h4 class="card-title">Noah's Ark</h4>
                   <p class="card-text">Self built cloud idea named Noah's Ark</p>
@@ -186,7 +186,7 @@
               </a>
 
               <!-- Project card 6 -->
-              <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal3">
+              <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal3"  data-aos="fade-left" data-aos-easing="ease-in-back" data-aos-offset="0" data-aos-duration="1000">
                 <div class="card-body shadow">
                   <h4 class="card-title">Generic project card</h4>
                   <p class="card-text">This is a holder for a project</p>
