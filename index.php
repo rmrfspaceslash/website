@@ -43,7 +43,7 @@
         </nav>
 
         <!--Hero text -->
-        <img class="w-100" src="img/holder1.jpg" style="padding-top: 40vh" alt="Noah's Cloud">
+        <img src="img/holder1.jpg" style="padding-top: 10vh" alt="Noah's Cloud">
       </div>
     </div>
 
