@@ -11,6 +11,7 @@
      <title>Noah's Cloud</title>
      <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
      <link rel="stylesheet" href="bootstrap/css/custom.css">
+     <link href="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.css" rel="stylesheet">
    </head>
     <body>
 
@@ -94,7 +95,7 @@
           </div><br>
 
           <!--testing row number 3 // testing -->
-          <div class="row">
+          <div class="row" data-aos="fade-up">
             <div class="card">
               <div class="card-block rounded pt-3 pb-3">
                 <h4 class="card-title ml-3 mr-3">Test Title</h4>
@@ -288,6 +289,10 @@
     </body>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
+    <script type="text/javascript">
+      AOS.init();
+    </script>
 
 <!--
    <script>
