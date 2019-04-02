@@ -44,8 +44,6 @@
 
         <!--Hero text -->
         <img src="img/Logo.png" style="padding-top: 10vh" alt="Noah's Cloud">
-        <p class="lead" style="color: white;">This is my website for all of my projects and stuff!</p>
-
       </div>
     </div>
 
