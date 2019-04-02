@@ -52,3 +52,7 @@
 html,body {
   font-family: "Calibri","Candara", "Segoe", "Segoe UI", "Optima", "Arial", "sans-serif";
 }
+
+.card {
+  background-color: #E7FFE7;
+}
