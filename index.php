@@ -59,7 +59,7 @@
 
       <!-- Begin About Me section -->
       <div class="container">
-        <h1 class="float-sm-right aos-animate" data-aos="fade-left" data-aos-duration="3000">About Me</h1><br>
+        <h1 class="float-sm-right aos-animate" data-aos="fade-left" border="1px" data-aos-duration="3000">About Me</h1><br>
       </div>
       <hr class="my-4 aos-animate" data-aos="slide-right" data-aos-duration="8000">
       <!--Begin About me section -->
