@@ -27,7 +27,7 @@
           <div class="collapse navbar-collapse flex-grow-0" id="navbarSupportedContent">
             <ul class="navbar-nav text-right">
               <li class="nav-item">
-                <a class="nav-link btn btn-link">About</a>
+                <a class="nav-link btn btn-link" id="scrollAbout">About</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link btn btn-link">Contact</a>
@@ -59,7 +59,7 @@
 
       <!-- Begin About Me section -->
       <div class="container">
-        <h1 class="float-sm-right aos-animate" data-aos="fade-left" data-aos-duration="3000">About Me</h1><br>
+        <h1 class="float-sm-right aos-animate" data-aos="fade-left" data-aos-duration="3000" id="aboutMe">About Me</h1><br>
       </div>
       <hr class="my-4 aos-animate" data-aos="slide-right" data-aos-duration="8000">
       <!--Begin About me section -->
@@ -290,22 +290,13 @@
       AOS.init();
     </script>
 
-<!--
-   <script>
-    $(document).ready(function(){
-      $('.card').hover(
-        function(){
-          $(this).animate({
-            marginTop: "-=1%",
-          }, 200);
-        },
-        function(){
-          $(this).animate({
-            marginTop: "0%",
-          }, 200);
-        }
-      );
-    });
-   </script>
--->
+    <script>
+        $(document).ready(function (){
+            $("#scrollAbout").click(function (){
+                $('html, body').animate({
+                    scrollTop: $("#aboutMe").offset().top
+                }, 2000);
+            });
+        });
+    </script>
  </html>
