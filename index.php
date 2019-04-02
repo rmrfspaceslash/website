@@ -62,7 +62,7 @@
       <!-- Begin About Me section -->
       <div class="container">
         <h1 class="float-sm-right" data-aos="slide-left">About Me</h1><br>
-      </div>
+      </div><br>
       <!--Begin About me section -->
 
         <div class="container">
