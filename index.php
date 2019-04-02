@@ -139,7 +139,7 @@
           <!-- Card deck 1 -->
           <div class="card-deck">
             <!-- Project card 1 -->
-            <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal1  data-aos="fade-right" data-aos-easing="ease-in-back" data-aos-offset="0" data-aos-duration="1000"">
+            <a class="card" href="" style="color: black;" data-toggle="modal" data-target=".projmodal1"  data-aos="fade-right" data-aos-easing="ease-in-back" data-aos-offset="0" data-aos-duration="1000">
               <div class="card-body shadow">
                 <h4 class="card-title">Noah's Cloud</h4>
                 <p class="card-text">This is my website that your currently viewing. Click to find
