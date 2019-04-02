@@ -94,7 +94,7 @@
 
           <!--testing row number 3 // testing -->
           <div class="row" data-aos="fade-up" data-aos-duration="3000">
-            <div class="card bg-secondary">
+            <div class="card bg-light">
               <div class="card-block rounded pt-3 pb-3">
                 <h4 class="card-title ml-3 mr-3">Test Title</h4>
                 <p class="card-text ml-3 mr-3">Filler text to see how this section will be formatted and how the design looks overall
