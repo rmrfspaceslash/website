@@ -54,5 +54,5 @@ html,body {
 }
 
 .card {
-  background-color: #E7FFE7;
+  background-color: #E7FFE7 !important;
 }
