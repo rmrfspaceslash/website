@@ -61,15 +61,15 @@
 
       <!-- Begin About Me section -->
       <div class="container">
-        <h1 class="float-sm-right" data-aos="slide-left">About Me</h1><br>
+        <h1 class="float-sm-right" data-aos="slide-left" data-aos-duration="3000">About Me</h1><br>
       </div>
-      <hr class="my-4" data-aos="slide-right" data-aos-duration="2000">
+      <hr class="my-4" data-aos="slide-right" data-aos-duration="5000">
       <!--Begin About me section -->
 
         <div class="container">
 
           <!--Row number 1 // High School-->
-          <div class="row" data-aos="fade-up" data-aos-duration="2000">
+          <div class="row" data-aos="fade-up" data-aos-duration="3000">
             <div class="col-lg-6 col-md-6 col-sm-12">
               <img class="img-thumbnail rounded w-50" src="img/holder1.jpg" alt="Holder image">
             </div>
