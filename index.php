@@ -105,7 +105,7 @@
         </div>
       </div><br>
 
-      <div class="card flip-card">
+      <div class=" flip-card">
         <div class="flip-card-inner">
           <div class="flip-card-front">
             <img src="img/holderimg1.jpg" alt="Holder Image">
