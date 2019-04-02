@@ -54,16 +54,15 @@
       <div class="container">
 
         <!-- temp non-finished alert -->
-        <div class="alert alert-danger" role="alert">
+        <div class="alert alert-danger" role="alert" aos-data="zoom-in">
           <strong>Hey Listen!</strong> This website is not complete! It is getting updated daily! Start Date: 3/31/19 | Last Modified: 4/1/19
         </div>
       </div>
 
       <!-- Begin About Me section -->
       <div class="container">
-        <h1 class="float-sm-right">About Me</h1><br>
+        <h1 class="float-sm-right" data-aos="slide-left">About Me</h1><br>
       </div>
-      <hr class="my-4">
       <!--Begin About me section -->
 
         <div class="container">
