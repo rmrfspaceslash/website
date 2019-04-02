@@ -19,7 +19,7 @@
       <div class="container" align="center">
 
        <!--navbar code -->
-        <nav class="navbar navbar-expand-sm justify-content-end navbar-fixed-top" style="color: white;">
+        <nav class="navbar navbar-expand-sm justify-content-end" style="color: white;">
           <a class="navbar-brand mr-auto btn btn-link mr-auto">Noah's Cloud</a>
           <button class="navbar-toggler bg-dark" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
             <span class="navbar-toggler-icon"></span>
