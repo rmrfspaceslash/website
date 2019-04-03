@@ -19,7 +19,7 @@
       <div class="card shadow-lg col-lg-6 col-sm-12" style="margin-top: 25vh">
         <div class="card-body">
           <div class="card-title text-secondary" align="center">
-            <form class="form-control w-75" action="" method="post">
+            <form class="form-group w-75" action="" method="post">
               <input class="form-inline" type="text" name="username" placeholder="Enter your email...">
             </form>
           </div>
