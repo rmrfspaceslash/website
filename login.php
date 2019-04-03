@@ -21,12 +21,12 @@
           <div class="card-title text-secondary" align="center">
             <form>
               <div class="form-group row">
-                <div class="col-sm-10">
+                <div class="col-sm-12">
                   <input type="email" class="form-control shadow" placeholder="Email" name="logEmail">
                 </div>
               </div>
               <div class="form-group row">
-                <div class="col-sm-10">
+                <div class="col-sm-12">
                   <input class="form-control shadow" type="password" placeholder="Password" name="logPassword"></input>
                 </div>
               </div>
