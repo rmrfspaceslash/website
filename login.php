@@ -32,8 +32,8 @@
                   <input class="form-control shadow" type="password" placeholder="Password" name="logPassword"></input>
                 </div>
               </div>
-              <div class="form-group row">
-                <button class="btn btn-success float-sm-right w-25" type="button" name="logSubmit">Log In</button>
+              <div class="form-group row w-100">
+                <button class="form-control btn btn-success float-sm-right w-25" type="button" name="logSubmit">Log In</button>
               </div>
               <div class="form-group row">
                 <p>Need an account? Click <a href="#">Here</a></p>
