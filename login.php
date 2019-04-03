@@ -33,7 +33,7 @@
                 </div>
               </div>
               <div class="form-group row">
-                <button class="btn btn-success float-sm-right w-25" type="button" name="logSubmit">Log In</button><br>
+                <button class="btn btn-success float-sm-right w-25" type="button" name="logSubmit">Log In</button>
               </div>
               <div class="form-group row">
                 <p>Need an account? Click <a href="#">Here</a></p>
