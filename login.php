@@ -16,7 +16,7 @@
   </head>
   <body>
     <div class="container" align="center">
-      <div class="card shadow-lg col-lg-6 col-sm-12" style="padding-top: 30vh">
+      <div class="card shadow-lg col-lg-6 col-sm-12" style="margin-top: 30vh">
         <div class="card-body">
           <div class="card-title text-secondary">
             Hello World
