@@ -20,7 +20,10 @@
         <div class="card-body">
           <div class="card-title text-secondary" align="center">
             <form class="form-group w-75" action="" method="post">
-              <input class="form-control" type="text" name="username" placeholder="Enter your email...">
+              <input class="form-control" type="text" name="logusername" placeholder="Enter your email...">
+              <input class="form-control" type="password" name="logpassword" placeholder="Enter your password...">
+              <input class="form-control" type="submit" name="logsubmit" value="Log In">
+
             </form>
           </div>
         </div>
