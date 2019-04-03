@@ -19,6 +19,7 @@
       <div class="card shadow-lg col-lg-6 col-sm-12" style="margin-top: 25vh">
         <div class="card-body">
           <div class="card-title text-secondary" align="center">
+            <img class="w-25" src="img/FinalLogo.png"alt="Noah's Cloud">
             <form>
               <div class="form-group row">
                 <div class="col-sm-12">
