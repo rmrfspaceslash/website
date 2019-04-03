@@ -32,7 +32,7 @@
                   <input class="form-control shadow" type="password" placeholder="Password" name="logPassword"></input>
                 </div>
               </div>
-              <div class="float-sm-right w-25">
+              <div class="form-group row float-sm-right w-25">
                 <button class="btn btn-success w-100" type="button" name="logSubmit">Log In</button>
               </div>
               <div class="form-group row">
