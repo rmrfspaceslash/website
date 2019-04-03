@@ -21,13 +21,17 @@
           <div class="card-title text-secondary" align="center">
             <form>
               <div class="form-group row">
-                <label for="contactEmail" class="col-sm-2 form-control-label">Email</label>
+                <label for="contactEmail" class="col-sm-4 form-control-label">Email</label>
+              </div>
+              <div class="form-group row">
                 <div class="col-sm-10">
                   <input type="email" class="form-control shadow" placeholder="Email" name="logEmail">
                 </div>
               </div>
               <div class="form-group row">
-                <label for="contactMessage" class="col-sm-2 form-control-label">Password</label>
+                <label for="contactMessage" class="col-sm-4 form-control-label">Password</label>
+              </div>
+              <div class="form-group row">
                 <div class="col-sm-10">
                   <input class="form-control shadow" type="password" placeholder="Password" name="logPassword"></input>
                 </div>
