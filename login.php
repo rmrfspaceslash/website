@@ -20,6 +20,7 @@
         <div class="card-body">
           <div class="card-title text-secondary" align="center">
             <img class="w-50" src="img/FinalLogo.png"alt="Noah's Cloud">
+            <hr class="my-4">
             <form>
               <div class="form-group row">
                 <div class="col-sm-12">
