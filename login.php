@@ -35,6 +35,9 @@
               <div class="float-sm-right w-25">
                 <button class="btn btn-success w-100" type="button" name="logSubmit">Log In</button>
               </div>
+              <div class="form-group row">
+                <p>Need an account? Click <a href="#">Here</a></p>
+              </div>
             </form>
           </div>
         </div>
