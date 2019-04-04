@@ -4921,7 +4921,7 @@ input[type="button"].btn-block {
 }
 
 .page-scroll{
-  height: 5000px;
+  height: 10vh;
 }
 
 @media (min-width: 576px) {
